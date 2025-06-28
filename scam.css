@@ -86,6 +86,15 @@
 .scam-content {
     margin-top: 50px;
 }
+.scam-tags {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 15px;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
 .Scambox2 {
     background: #393f38;
     height: 60px;
