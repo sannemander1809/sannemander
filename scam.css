@@ -25,6 +25,14 @@
     outline-color: #4c4c4c;
     outline-width: 3px;
 }
+.scam-main-img {
+    background-image: url(https://images2.imgbox.com/20/04/tjeOKFqp_o.jpg);
+    height: 250px;
+    margin: -30px;
+    margin-top: 33px;
+    filter: grayscale(1);
+    background-size: cover;
+}
 .scam-content {
     margin-top: 50px;
 }
