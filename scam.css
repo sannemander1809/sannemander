@@ -45,6 +45,18 @@
     margin-top: -250px;
     mix-blend-mode: color;
 } 
+.bigquote {
+    position: relative;
+    z-index: 3;
+    width: fit-content;
+    padding: 11px;
+    border-radius: 5px;
+    font-family: 'robot';
+    text-transform: uppercase;
+    text-decoration-thickness: 12px;
+    background: rgb(15 15 15 / 70%);
+    backdrop-filter: blur(6px);
+}
  .line {
     background: #393f38;
     height: 31px;
