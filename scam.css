@@ -29,7 +29,7 @@
     background-image: url(https://images2.imgbox.com/20/04/tjeOKFqp_o.jpg);
     height: 250px;
     margin: -30px;
-    margin-top: 33px;
+    margin-top: -122px;
     filter: grayscale(1);
     background-size: cover;
     position: relative;
@@ -44,6 +44,9 @@
     z-index: 2;
     margin-top: -250px;
     mix-blend-mode: color;
+.quotes {
+    margin-top: 71px;
+    margin-left: 240px;
 } 
 .bigquote {
     position: relative;
@@ -70,11 +73,14 @@
     background: rgb(15 15 15 / 70%);
     backdrop-filter: blur(6px);
     font-size: 10;
+    margin-top: 6;
+    margin-left: 96px;
 }
- .line {
+.line {
     background: #393f38;
     height: 31px;
     margin: -30px;
+    margin-top: 7px;
 }
 .scam-content {
     margin-top: 50px;
