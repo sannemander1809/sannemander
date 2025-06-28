@@ -48,3 +48,12 @@
 .scam-content {
     margin-top: 50px;
 }
+.Scambox2 {
+    background: #393f38;
+    height: 60px;
+    margin: -30px;
+    outline: solid;
+    outline-color: #4c4c4c;
+    outline-width: 3px;
+    margin-top: 57px;
+}
