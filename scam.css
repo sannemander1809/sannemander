@@ -65,9 +65,9 @@
     border-radius: 5px;
     font-family: 'robot';
     text-transform: uppercase;
-    text-decoration-thickness: 12px;
     background: rgb(15 15 15 / 70%);
     backdrop-filter: blur(6px);
+    font-size: 13;
 }
  .line {
     background: #393f38;
