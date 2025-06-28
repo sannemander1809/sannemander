@@ -32,15 +32,18 @@
     margin-top: 33px;
     filter: grayscale(1);
     background-size: cover;
+    position: relative;
+    z-index: 1;
 }
 .scam-grad {
-    background: linear-gradient(to bottom, rgb(101 66 66), rgb(40 40 40));
+    background: linear-gradient(to bottom, rgb(57 63 56), rgb(40 40 40));
     height: 250px;
     margin: -30px;
-    margin-top: -250px;
     background-size: cover;
     position: relative;
-    background-blend-mode: color;
+    z-index: 2;
+    margin-top: -250px;
+    mix-blend-mode: color;
 }
 .scam-content {
     margin-top: 50px;
