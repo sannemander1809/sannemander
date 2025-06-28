@@ -44,7 +44,8 @@
     z-index: 2;
     margin-top: -250px;
     mix-blend-mode: color;
-.quotes {
+}   
+    .quotes {
     margin-top: 71px;
     margin-left: 240px;
 } 
@@ -62,7 +63,7 @@
     font-weight: bolder;
     font-size: 15;
 }
-.small-quote {
+    .small-quote {
     position: relative;
     z-index: 3;
     width: fit-content;
