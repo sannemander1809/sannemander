@@ -44,6 +44,11 @@
     z-index: 2;
     margin-top: -250px;
     mix-blend-mode: color;
+} 
+    .line {
+    background: #393f38;
+    height: 31px;
+    margin: -30px;
 }
 .scam-content {
     margin-top: 50px;
