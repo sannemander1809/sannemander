@@ -69,7 +69,7 @@
     background-size: cover;
     position: relative;
     z-index: 2;
-    margin-top: -370px;
+    margin-top: -241px;
     mix-blend-mode: color;
 }
 .quotes {
@@ -109,10 +109,12 @@
     background: #393f38;
     height: 7px;
     margin: -30px;
-    margin-top: 156px;
+    margin-top: 29px;
     margin-bottom: 8px;
     position: relative;
     z-index: 2;
+    margin-left: -31.01px;
+    margin-right: -31.01;
 }
 .scam-content {
     margin-top: 50px;
