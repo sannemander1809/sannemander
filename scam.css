@@ -14,7 +14,7 @@
     --scamline: #463132;
     --scamtag: #463132;
     --scamcircle: #7c5b5d;
-    --scam b: #ab7676;
+    --scamb: #ab7676;
     --scamstreepie: #463132;
 }
 
@@ -24,7 +24,7 @@
     --scamline: #383f42;
     --scamtag: #383f42;
     --scamcircle: #546065;
-    --scam b: #bcd0d7;
+    --scamb: #bcd0d7;
     --scamstreepie: #383f42;
 }
 
@@ -35,7 +35,7 @@
     --scamline: #373d46;
     --scamtag: #373d46;
     --scamcircle: #525c6b;
-    --scam b: #373d46;
+    --scamb: #373d46;
     --scamstreepie: #373d46;
 }
 .sand {
@@ -43,8 +43,8 @@
     --scamboxes: #403e37;
     --scamline: #403e37;
     --scamtag: #403e37;
-    --scamcircle: #292d28;
-    --scam b: #b99f7f;
+    --scamcircle: #6b675b
+    --scamb: #b99f7f;
     --scamstreepie: #403e37;
 }
 
@@ -54,7 +54,7 @@
     --scamline: #39403c;
     --scamtag: #39403c;
     --scamcircle: #54615a;
-    --scam b: #819e94;
+    --scamb: #819e94;
     --scamstreepie: #39403c;
 }
 
@@ -64,7 +64,7 @@
     --scamline: #474747;
     --scamtag: #474747;
     --scamcircle: #727372;
-    --scam b: #dbdbdb;
+    --scamb: #dbdbdb;
     --scamstreepie:#474747;
 }
 .scam-background {
