@@ -118,22 +118,22 @@
     margin-top: 50px;
 }
 .scam-tags {
-    width: 100%;
+    width: 103%;
     display: flex;
     align-items: center;
     justify-content: end;
     gap: 15px;
     text-transform: uppercase;
-    margin-top: 5px;
+    margin-top: -34px;
 }
 .scam-tag {
     background: #393f38;
-    padding: 5px;
-    font-size: 8px;
+    padding: 12px;
+    font-size: 11px;
     font-weight: 900;
     border-radius: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 33px;
+    padding-right: 33px;
     font-family: 'Roboto';
     text-shadow: none;
     border: 2px solid #434343;
