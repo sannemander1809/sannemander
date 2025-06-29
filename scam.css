@@ -88,7 +88,7 @@
     padding: 30px;
 }
 .scambox1 {
-    background: #393f38;
+    background: var(--scamboxes);
     height: 35;
     margin: -30px;
     outline: solid;
@@ -233,7 +233,7 @@ b, strong {
     color: var(--scam b);
 }
 .Scambox2 {
-    background: var(--sanneboxes);
+    background: var(--scamboxes);
     height: 60px;
     margin: -30px;
     outline: solid;
