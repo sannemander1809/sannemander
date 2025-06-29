@@ -37,7 +37,7 @@
     --scamcircle: #525c6b;
     --scam b: #373d46;
     --scamstreepie: #373d46;
-
+}
 .sand {
     --scamgrad: linear-gradient(to bottom, rgb(64 62 55), rgb(40 40 40));
     --scamboxes: #403e37;
