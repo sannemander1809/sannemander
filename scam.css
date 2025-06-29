@@ -4,7 +4,7 @@
     --scamline: #393f38;
     --scamtag: #393f38;
     --scamcircle: #4c5d4b;
-    --scam b: #89a488;
+    --scamb: #89a488;
     --scamstreepie: #393f38;
 }
 
@@ -230,7 +230,7 @@ b, strong {
     font-weight: 700;
     font-family: 'Radio Canada Big';
     font-size: 13;
-    color: var(--scam b);
+    color: var(--scamb);
 }
 .Scambox2 {
     background: var(--scamboxes);
