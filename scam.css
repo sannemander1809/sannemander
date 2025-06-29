@@ -1,3 +1,73 @@
+.earth {
+    --scamgrad: linear-gradient(to bottom, rgb(57 63 56), rgb(40 40 40));
+    --scamboxes: #393f38;
+    --scamline: #393f38;
+    --scamtag: #393f38;
+    --scamcircle: #4c5d4b;
+    --scam b: #89a488;
+    --scamstreepie: #393f38;
+}
+
+.fire {
+    --scamgrad: linear-gradient(to bottom, rgb(70 49 50), rgb(40 40 40));
+    --scamboxes: #463132;
+    --scamline: #463132;
+    --scamtag: #463132;
+    --scamcircle: #7c5b5d;
+    --scam b: #ab7676;
+    --scamstreepie: #463132;
+}
+
+.nwater {
+     --scamgrad: linear-gradient(to bottom, rgb(56 63 66), rgb(40 40 40));
+    --scamboxes: #383f42;
+    --scamline: #383f42;
+    --scamtag: #383f42;
+    --scamcircle: #546065;
+    --scam b: #bcd0d7;
+    --scamstreepie: #383f42;
+}
+
+.swater {
+
+     --scamgrad: linear-gradient(to bottom, rgb(55 61 70), rgb(40 40 40));
+    --scamboxes: #373d46;
+    --scamline: #373d46;
+    --scamtag: #373d46;
+    --scamcircle: #525c6b;
+    --scam b: #373d46;
+    --scamstreepie: #373d46;
+
+.sand {
+    --scamgrad: linear-gradient(to bottom, rgb(64 62 55), rgb(40 40 40));
+    --scamboxes: #403e37;
+    --scamline: #403e37;
+    --scamtag: #403e37;
+    --scamcircle: #292d28;
+    --scam b: #b99f7f;
+    --scamstreepie: #403e37;
+}
+
+.foggy {
+     --scamgrad: linear-gradient(to bottom, rgb(57 64 60), rgb(40 40 40));
+    --scamboxes: #39403c;
+    --scamline: #39403c;
+    --scamtag: #39403c;
+    --scamcircle: #54615a;
+    --scam b: #819e94;
+    --scamstreepie: #39403c;
+}
+
+.air {
+    --scamgrad: linear-gradient(to bottom, rgb(71 71 71), rgb(40 40 40));
+    --scamboxes: #474747;
+    --scamline: #474747;
+    --scamtag: #474747;
+    --scamcircle: #727372;
+    --scam b: #dbdbdb;
+    --scamstreepie:#474747;
+}
+
 .scam-background {
     background-image: url(https://images2.imgbox.com/43/ef/04U8Of0b_o.jpg);
     outline: solid;
@@ -36,7 +106,7 @@
     position: relative;
     z-index: 3;
     margin-bottom: -230px;
-    outline-color: #292d28;
+    outline-color: var(--scamcircle);
     outline-style: solid;
     outline-width: 10px;
     filter: drop-shadow(2px 4px 6px black);
@@ -66,7 +136,7 @@
     z-index: 1;
 }
 .scam-grad {
-    background: linear-gradient(to bottom, rgb(57 63 56), rgb(40 40 40));
+    background: var(--scamgrad);
     height: 242px;
     margin: -31px;
     background-size: cover;
@@ -109,7 +179,7 @@
     margin-left: 96px;
 }
 .line {
-    background: #393f38;
+    background: var(--scamline);
     height: 7px;
     margin: -30px;
     margin-top: 29px;
@@ -132,7 +202,7 @@
     margin-top: -34px;
 }
 .scam-tag {
-    background: #393f38;
+    background: var(--scamtag);
     padding: 12px;
     font-size: 9px;
     font-weight: 900;
@@ -161,10 +231,10 @@ b, strong {
     font-weight: 700;
     font-family: 'Radio Canada Big';
     font-size: 13;
-    color: #89a488;
+    color: var(--scam b);
 }
 .Scambox2 {
-    background: #393f38;
+    background: var(--sanneboxes);
     height: 60px;
     margin: -30px;
     outline: solid;
