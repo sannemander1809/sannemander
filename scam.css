@@ -162,4 +162,28 @@
     outline-width: 3px;
     margin-top: 57px;
     font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sc-symol-back {
+    background: #333333;
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    border-radius: 100%;
+    outline: solid;
+    outline-color: #4c4c4c;
+    outline-width: 5px;
+    margin-top: -46px;
+}
+.sc-symbol-img {
+    height: 90px;
+    width: 90px;
+    position: absolute;
+    margin-top: -46px;
+    z-index: 5;
+    filter: invert(54%) sepia(0%) saturate(0%) hue-rotate(314deg) brightness(96%) contrast(67%);
+    background: url("https://images2.imgbox.com/17/f2/PM0y3ZaW_o.png") 0% 0% / contain;
+    border-radius: 100%;
 }
