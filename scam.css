@@ -153,6 +153,12 @@
     padding-top: 69px;
     padding-left: 64px;
 }
+b, strong {
+    font-weight: 700;
+    font-family: 'Radio Canada Big';
+    font-size: 13;
+    color: #89a488;
+}
 .Scambox2 {
     background: #393f38;
     height: 60px;
