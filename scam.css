@@ -44,7 +44,7 @@
 .sc--main-icon-image {
     width: 200px;
     height: 200px;
-    background-image: url(https://thispersondoesnotexist.com/);
+    background: #000000;
     border-radius: 100%;
     margin-top: 30px;
     margin-left: -344px;
