@@ -19,7 +19,7 @@
 }
 .scambox1 {
     background: #393f38;
-    height: 35;
+    height: 43px;
     margin: -30px;
     outline: solid;
     outline-color: #4c4c4c;
@@ -56,7 +56,7 @@
     background-image: url(https://images2.imgbox.com/20/04/tjeOKFqp_o.jpg);
     height: 220px;
     margin: -30px;
-    margin-top: -150px;
+    margin-top: 227px;
     filter: grayscale(1);
     background-size: cover;
     position: relative;
@@ -71,7 +71,7 @@
     z-index: 2;
     margin-top: -250px;
     mix-blend-mode: color;
-}   
+}  
 .quotes {
     margin-top: -308px;
     margin-left: 240px;
@@ -108,7 +108,7 @@
     background: #393f38;
     height: 40px;
     margin: -30px;
-    margin-top: 7px;
+    margin-top: 18px;
 }
 .scam-content {
     margin-top: 50px;
@@ -144,7 +144,7 @@
     border-left-style: solid;
     border-left-color: #2e322f;
     padding: 20;
-    padding-top: 64px;
+    padding-top: 75px;
 }
 .Scambox2 {
     background: #393f38;
