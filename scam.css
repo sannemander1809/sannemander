@@ -158,10 +158,11 @@
     font-family: 'robot';
     text-transform: uppercase;
     text-decoration-thickness: 12px;
-    background: rgb(15 15 15 / 40%);
+    background: rgb(15 15 15 / 70%);
     backdrop-filter: blur(1px);
     font-weight: bolder;
     font-size: 15;
+    color: #ffffff;
 }
     .small-quote {
     position: relative;
@@ -171,11 +172,12 @@
     border-radius: 5px;
     font-family: 'robot';
     text-transform: uppercase;
-    background: rgb(15 15 15 / 40%);
+    background: rgb(15 15 15 / 70%);
     backdrop-filter: blur(1px);
     font-size: 10;
     margin-top: 6;
     margin-left: 96px;
+    color: #ffffff;
 }
 .line {
     background: var(--scamline);
