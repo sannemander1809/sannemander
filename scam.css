@@ -131,11 +131,11 @@
 .scam-tag {
     background: #393f38;
     padding: 12px;
-    font-size: 11px;
+    font-size: 9px;
     font-weight: 900;
     border-radius: 10px;
-    padding-left: 33px;
-    padding-right: 33px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-family: 'Roboto';
     text-shadow: none;
     border: 2px solid #434343;
