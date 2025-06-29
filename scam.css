@@ -25,11 +25,25 @@
     outline-color: #4c4c4c;
     outline-width: 3px;
 }
+.sc-main-icon {
+    width: 200px;
+    height: 200px;
+    background: #000000;
+    border-radius: 100%;
+    margin-top: 147px;
+    position: relative;
+    z-index: 3;
+    margin-bottom: 60px;
+    outline-color: #292d28;
+    outline-style: solid;
+    outline-width: 10px;
+}
+
 .scam-main-img {
     background-image: url(https://images2.imgbox.com/20/04/tjeOKFqp_o.jpg);
     height: 220px;
     margin: -30px;
-    margin-top: -122px;
+    margin-top: -458px;
     filter: grayscale(1);
     background-size: cover;
     position: relative;
@@ -45,10 +59,10 @@
     margin-top: -250px;
     mix-blend-mode: color;
 }   
-    .quotes {
-    margin-top: 71px;
+.quotes {
+    margin-top: 53px;
     margin-left: 240px;
-} 
+}
 .bigquote {
     position: relative;
     z-index: 3;
