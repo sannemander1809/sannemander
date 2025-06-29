@@ -228,7 +228,7 @@
     padding-left: 64px;
     text-align: justify;
 }
-b, strong {
+.scb b {
     font-weight: 700;
     font-family: 'Radio Canada Big';
     font-size: 13;
