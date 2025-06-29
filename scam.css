@@ -218,8 +218,8 @@
     letter-spacing: 1px;
 }
 .scam-txt {
-    font-size: 11;
-    font-family: 'Roboto';
+    font-size: 12;
+    font-family: "Noto Serif", serif;
     border-left-width: 1px;
     border-left-style: solid;
     border-left-color: #2e322f;
@@ -229,10 +229,11 @@
     text-align: justify;
 }
 b, scb {
+    font-family: "Noto Serif", serif;
     font-weight: 700;
-    font-family: 'Radio Canada Big';
-    font-size: 13;
+    font-size: 14px;
     color: var(--scamb);
+    font-style: italic;
 }
 .Scambox2 {
     background: var(--scamboxes);
