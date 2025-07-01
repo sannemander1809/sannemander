@@ -3,16 +3,28 @@
     border-radius: 10px;
     width: 660px;
     outline: solid;
-    outline-color: #39403c;
+    outline-color: #222222;
     outline-width: 6px;
     border: bisque;
     border: solid;
     border-width: 3px;
-    border-color: #819e94;
+    border-color: #3a3a3a;
 }
 .body-umi {
     background: #252525;
     border-radius: 10px;
     padding: 30;
     margin: 20;
+    margin-bottom: 156px;
+}
+.umi-flex {
+    display: flex;
+}
+.umi-text {
+    margin-right: 16px;
+    width: 500;
+}
+.umi-side-image {
+    background: rebeccapurple;
+    width: 200px;
 }
