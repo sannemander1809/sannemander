@@ -29,6 +29,7 @@
     border-radius: 10px;
     filter: grayscale(1);
     margin-top: -150px;
+    background-size: cover;
 }
 .enc-quote {
     text-align: center;
