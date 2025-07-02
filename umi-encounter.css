@@ -30,6 +30,17 @@
     filter: grayscale(1);
     margin-top: -150px;
 }
+.enc-quote {
+    text-align: center;
+    font-size: 32px;
+    position: relative;
+    z-index: 5;
+    font-family: Georgia, serif;
+    font-size: 31px;
+    text-transform: uppercase;
+    text-shadow: 5px 4px 5px #000000;
+    color: #c8c8c8;
+}
 .enc-text {
     margin-top: 15px;
     text-align: justify;
