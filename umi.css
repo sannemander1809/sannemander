@@ -17,6 +17,14 @@
     margin: 20;
     margin-bottom: 156px;
 }
+.umi-big-quote {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-shadow: 5px 4px 5px #000000;
+    color: #819e94;
+}
+
 .umi-flex {
     display: flex;
 }
