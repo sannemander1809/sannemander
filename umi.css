@@ -28,6 +28,11 @@
     font-family: "Noto Serif", serif;
     border-left-width: 1px;
 }
+b {
+    color: #829f95;
+    font-size: 15px;
+    font-style: italic;
+}
 .umi-side-image {
     width: 241px;
     background-size: cover;
