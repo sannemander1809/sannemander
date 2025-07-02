@@ -24,6 +24,9 @@
     margin-right: 16px;
     width: 500;
     text-align: justify;
+    font-size: 14px;
+    font-family: "Noto Serif", serif;
+    border-left-width: 1px;
 }
 .umi-side-image {
     width: 241px;
