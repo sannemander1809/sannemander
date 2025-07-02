@@ -1,1 +1,17 @@
-
+.qil-background {
+    background: #181818;
+    border-radius: 10px;
+    width: 660px;
+    outline: solid;
+    outline-color: #222222;
+    outline-width: 6px;
+    border: solid;
+    border-width: 3px;
+    border-color: #3a3a3a;
+}
+.qil-body {
+    background: #252525;
+    border-radius: 10px;
+    padding: 30;
+    margin: 20;
+}
