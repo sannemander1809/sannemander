@@ -23,6 +23,7 @@
 .umi-text {
     margin-right: 16px;
     width: 500;
+    text-align: justify;
 }
 .umi-side-image {
     background-image: url(https://i.pinimg.com/736x/9c/37/10/9c3710d394fb4115702654fb1e092028.jpg);
