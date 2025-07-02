@@ -34,12 +34,12 @@
 }
 .umi-main-image {
     border: rebeccapurple;
-    background-image: url(https://i.pinimg.com/originals/f7/4f/e4/f74fe4fbd3ed4d65929a195ccf803cf8.gif);
     height: 108px;
     background-size: cover;
     margin-top: -153px;
     border-radius: 10px;
     background-position-y: 287px;
+    background-image: url(https://images2.imgbox.com/b1/38/CcOqqpN9_o.gif);
 }
 .umi-wave {
     background: #181818;
