@@ -24,7 +24,14 @@
     text-shadow: 5px 4px 5px #000000;
     color: #819e94;
 }
-
+.umi-smoll-quote {
+    margin: -12px;
+    margin-bottom: 20px;
+    font-family: Georgia, serif;
+    font-size: 13px;
+    color: #8d8d8d;
+    font-style: italic;
+}
 .umi-flex {
     display: flex;
 }
