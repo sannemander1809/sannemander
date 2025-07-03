@@ -1,7 +1,7 @@
 .background-woof {
     background: #181818;
     border-radius: 10px;
-    width: 660px;
+    width: 700;
     outline: solid;
     outline-color: #222222;
     outline-width: 6px;
@@ -19,19 +19,44 @@
     outline-width: 2px;
 }
 .woof-block-1 {
-    height: 45px;
+    height: 76px;
     background: rgb(70, 49, 50);
     margin: -30px;
     border-radius: 10px 10px 0px 0px;
     margin-bottom: 35px;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: #2c2c2c;
 }
-.woof-flex {
-    display: flex;
+.woof-text {
+    width: 560px;
+    padding: 31px;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    font-weight: 300;
+    color: #d9d9d9;
+    text-shadow: 1px 1px 1px #000;
+    font-family: "Noto Serif", serif;
+    z-index: 3;
 }
 .woof-side-image {
-    width: 250px;
+    background-image: url(https://images2.imgbox.com/71/5f/dpP0nSBZ_o.png);
+    width: 235px;
+    margin-bottom: -24px;
+    margin-top: -32px;
     background-size: cover;
-    background-image: url(https://i30.servimg.com/u/f30/20/60/58/34/plant10.png);
-    background-position-x: -44px;
-    margin-right: 22px;
+    background-position: center;
+    filter: saturate(0.7) contrast(0.6) brightness(0.45);
+    margin-right: -27px;
+    outline: solid;
+    outline-color: #2a1e1e;
+    outline-width: 3px;
+}
+.woof-block-2 {
+    height: 76px;
+    background: rgb(70, 49, 50);
+    margin: -30px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: 27px;
+    margin-bottom: -63px;
 }
