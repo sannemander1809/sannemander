@@ -1,12 +1,13 @@
 .qil-background {
     width: 750px;
-    background: rgb(29 29 29);
+    background-image: url(https://i.pinimg.com/736x/6e/4f/b9/6e4fb9ff09d27453ae0de0a839d36081.jpg);
     border-radius: 10px;
     outline: rgb(34, 34, 34) solid 6px;
     border-style: solid;
     border-image: initial;
     border-width: 3px;
     border-color: rgb(58, 58, 58);
+    background-size: contain;
 }
 .qil-body {
     background: #252525;
