@@ -25,11 +25,32 @@
     border-radius: 10px 10px 0px 0px;
     margin-bottom: 35px;
 }
+.woof-img-color {
+    background: #341e1f;
+    height: 110px;
+    margin: -30px;
+    margin-top: -36px;
+    margin-bottom: 35px;
+    position: relative;
+    z-index: 7;
+    mix-blend-mode: color;
+}
+.woof-scenery-image {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/086/301/501/large/ariane-lemelin-red-artblast-al-llg-01.jpg?1742853466);
+    height: 110px;
+    margin: -30px;
+    margin-top: -145px;
+    margin-bottom: 35px;
+    position: relative;
+    z-index: 6;
+    background-size: cover;
+    filter: grayscale(1);
+}
 .woof-scenery {
     background: black;
     height: 110px;
     margin: -30px;
-    margin-top: -36px;
+    margin-top: -145px;
     margin-bottom: 35px;
     filter: drop-shadow(2px 4px 6px black);
     position: relative;
