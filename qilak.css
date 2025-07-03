@@ -25,6 +25,9 @@
     position: relative;
     z-index: 4;
     margin-top: 156px;
+    outline: solid;
+    outline-color: #383f42;
+    filter: drop-shadow(2px 4px 6px black);
 }
 .qil-starry {
     background-image: url(https://i.pinimg.com/originals/0b/e7/48/0be748204b77ec2211c3230442e468a9.gif);
