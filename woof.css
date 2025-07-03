@@ -14,4 +14,13 @@
     border-radius: 10px;
     padding: 30px;
     margin: 20px;
+    outline: solid;
+    outline-color: #2a1e1e;
+    outline-width: 2px;
+}
+.woof-block-1 {
+    height: 45px;
+    background: rgb(70, 49, 50);
+    margin: -30px;
+    border-radius: 10px 10px 0px 0px;
 }
