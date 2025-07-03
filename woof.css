@@ -23,6 +23,7 @@
     background: rgb(70, 49, 50);
     margin: -30px;
     border-radius: 10px 10px 0px 0px;
+    margin-bottom: 35px;
 }
 .woof-flex {
     display: flex;
