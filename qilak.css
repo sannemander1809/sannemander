@@ -2,11 +2,11 @@
     background-image: url(https://i.pinimg.com/736x/1a/a0/09/1aa0097aaf99e0fe099c2f84f2e4f692.jpg);
     width: 750px;
     border-radius: 10px;
-    outline: rgb(34, 34, 34) solid 6px;
+    outline: rgb(24 24 24) solid 6px;
     border-style: solid;
     border-image: initial;
     border-width: 3px;
-    border-color: rgb(58, 58, 58);
+    border-color: rgb(56 63 66);
     background-size: contain;
     filter: drop-shadow(2px 4px 6px black);
 }
