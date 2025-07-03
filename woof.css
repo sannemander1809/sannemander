@@ -19,15 +19,23 @@
     outline-width: 2px;
 }
 .woof-block-1 {
-    height: 76px;
+    height: 35px;
     background: rgb(70, 49, 50);
     margin: -30px;
     border-radius: 10px 10px 0px 0px;
     margin-bottom: 35px;
-    border-bottom-style: solid;
-    border-bottom-width: 10px;
-    border-bottom-color: #2c2c2c;
-  }  
+}
+.woof-scenery {
+    background: black;
+    height: 110px;
+    margin: -30px;
+    margin-top: -36px;
+    margin-bottom: 35px;
+    filter: drop-shadow(2px 4px 6px black);
+    position: relative;
+    z-index: 5;
+    background-size: cover;
+}
 .woof-flex {
     display: flex;
 }
