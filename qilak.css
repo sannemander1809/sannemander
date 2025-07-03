@@ -57,7 +57,15 @@
     padding: 21px;
     border-left: solid;
     border-left-color: #383f42;
-    margin-left: 42px;
+    margin-left: 27px;
+    margin-right: 27px;
+    font-size: 13px;
+    font-family: "Noto Serif", serif;
+    border-left-width: 1px;
+    border-left-style: solid;
+    padding-top: 22px;
+    padding-left: 25px;
+    text-align: justify;
 }
 .big-quote-qil {
     font-size: 42px;
