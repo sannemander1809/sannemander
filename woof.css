@@ -27,6 +27,9 @@
     border-bottom-style: solid;
     border-bottom-width: 10px;
     border-bottom-color: #2c2c2c;
+  }  
+.woof-flex {
+    display: flex;
 }
 .woof-text {
     width: 560px;
