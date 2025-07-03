@@ -24,3 +24,13 @@
     margin: -30px;
     border-radius: 10px 10px 0px 0px;
 }
+.woof-flex {
+    display: flex;
+}
+.woof-side-image {
+    width: 250px;
+    background-size: cover;
+    background-image: url(https://i30.servimg.com/u/f30/20/60/58/34/plant10.png);
+    background-position-x: -44px;
+    margin-right: 22px;
+}
