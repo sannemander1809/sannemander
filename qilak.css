@@ -14,6 +14,8 @@
     padding: 30;
     margin: 20;
     filter: drop-shadow(2px 4px 6px black);
+    outline: solid;
+    outline-color: #383f42;
 }
 .qil-block {
     background: #1f3039;
@@ -36,13 +38,41 @@
 .qil-starry {
     background-image: url(https://i.pinimg.com/originals/0b/e7/48/0be748204b77ec2211c3230442e468a9.gif);
     height: 186;
-    width: 300;
+    width: 221px;
     filter: grayscale(1);
     position: relative;
     z-index: 1;
     margin-left: 11px;
     clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 49%, 0% 0%);
     margin-top: -186px;
+}
+.qil-quotes {
+    position: relative;
+    z-index: 5;
+    margin-top: -114px;
+    margin-left: 230px;
+}
+.qil-txt {
+    padding: 21px;
+    border-left: solid;
+    border-left-color: #383f42;
+    margin-left: 42px;
+}
+.big-quote-qil {
+    font-weight: 300;
+    font-size: 33px;
+    color: #ffffff;
+    text-shadow: 1px 1px 5px #000000;
+    font-family: UnifrakturMaguntia;
+    text-align: center;
+}
+.small-quote {
+    margin-top: 8px;
+    color: #c5c5c5;
+    font-family: 'Radio Canada Big';
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
 }
 .qil-txt {
     padding: 21px;
