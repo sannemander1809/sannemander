@@ -80,7 +80,8 @@
     padding: 21px;
     border-left: solid;
     border-left-color: #383f42;
-    margin-left: 42px;
+    margin-left: 27px;
+    margin-right: 27px;
 }
 .qil-moony {
     background-image: url(https://i.imgur.com/JenKTHy.gif);
@@ -98,6 +99,10 @@
     align-items: center;
     justify-content: end;
     gap: 10px;
+    position: relative;
+    z-index: 5;
+    margin-top: 8px;
+    margin-left: -128px;
 }
 .qil-tag {
     background: var(--background);
@@ -105,8 +110,8 @@
     font-size: 8px;
     font-weight: 900;
     border-radius: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-family: 'Roboto';
     text-shadow: none;
     border: 2px solid #434343;
