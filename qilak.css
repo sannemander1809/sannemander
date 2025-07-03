@@ -88,6 +88,12 @@ b, qil {
     font-style: italic;
     font-family: 'Josefin sans-serif';
 }
+i, qil {
+    color: rgb(188, 208, 215);
+    font-size: 15px;
+    font-style: italic;
+    font-family: "Josefin sans-serif";
+}
 .big-quote-qil {
     font-size: 42px;
     color: #ffffff;
