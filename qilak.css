@@ -1,6 +1,6 @@
 .qil-background {
+    background-image: url(https://i.pinimg.com/736x/1a/a0/09/1aa0097aaf99e0fe099c2f84f2e4f692.jpg);
     width: 750px;
-    background-image: url(https://i.pinimg.com/736x/6e/4f/b9/6e4fb9ff09d27453ae0de0a839d36081.jpg);
     border-radius: 10px;
     outline: rgb(34, 34, 34) solid 6px;
     border-style: solid;
@@ -8,6 +8,7 @@
     border-width: 3px;
     border-color: rgb(58, 58, 58);
     background-size: contain;
+    filter: drop-shadow(2px 4px 6px black);
 }
 .qil-body {
     background: #252525;
