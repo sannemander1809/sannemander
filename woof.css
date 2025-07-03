@@ -70,6 +70,7 @@
     text-shadow: 1px 1px 1px #000;
     font-family: "Noto Serif", serif;
     z-index: 3;
+    text-align: justify;
 }
 .woof-side-image {
     background-image: url(https://images2.imgbox.com/71/5f/dpP0nSBZ_o.png);
