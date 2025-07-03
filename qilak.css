@@ -82,3 +82,10 @@
     border-left-color: #383f42;
     margin-left: 42px;
 }
+.qil-moony {
+    background-image: url(https://i.imgur.com/CrQzMly.gif);
+    height: 147px;
+    width: 200;
+    background-size: cover;
+    margin-left: 461px;
+}
