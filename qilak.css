@@ -50,7 +50,7 @@
     position: relative;
     z-index: 5;
     margin-top: -114px;
-    margin-left: 230px;
+    margin-left: 216px;
 }
 .qil-txt {
     padding: 21px;
@@ -59,17 +59,18 @@
     margin-left: 42px;
 }
 .big-quote-qil {
-    font-weight: 300;
     font-size: 33px;
     color: #ffffff;
     text-shadow: 1px 1px 5px #000000;
-    font-family: UnifrakturMaguntia;
     text-align: center;
+    font-weight: 400;
+    font-family: "Fleur De Leah", cursive;
+    font-style: italic;
 }
 .small-quote {
-    margin-top: 8px;
+    margin-top: 15px;
     color: #c5c5c5;
-    font-family: 'Radio Canada Big';
+    font-family: 'Spectral SC';
     font-size: 12px;
     font-style: italic;
     text-align: center;
