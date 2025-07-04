@@ -56,8 +56,7 @@
     height: 63px;
     background: var(--woofblock);
     margin: -30px;
-    border-radius: 10px 10px 0px 0px
-    margin-top: -30px;
+    border-radius: 10px 10px 0px 0px;
     margin-bottom: -26px;
 }
 .small-woof {
