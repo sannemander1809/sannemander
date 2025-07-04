@@ -18,6 +18,14 @@
     outline-color: #2a1e1e;
     outline-width: 2px;
 }
+.woof-block-1 {
+    height: 76px;
+    background: rgb(70, 49, 50);
+    margin: -30px;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: 27px;
+    margin-bottom: -63px;
+}
 .small.woof {
     position: relative;
     z-index: 6;
