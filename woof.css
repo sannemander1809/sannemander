@@ -7,7 +7,7 @@
 .fire {
     --woofoutline: #2a1e1e;
     --woofimgcolor: #341e1f;
-    --woofblock rgb(70, 49, 50);
+    --woofblock: rgb(70, 49, 50);
     --woofb: #ab7676;
 }
 .nwater {
@@ -19,13 +19,13 @@
 .swater {
     --woofoutline: #1f2a35;
     --woofimgcolor: #1f2a35;
-    --woofblock rgb(55 61 70);
+    --woofblock: rgb(55 61 70);
     --woofb: #90b2c7    
 }
 .sand {
      --woofoutline: #312c23;
     --woofimgcolor: #312c23;
-    --woofblock rgb(64 62 55);
+    --woofblock: rgb(64 62 55);
     --woofb: #b99f7f; 
 }
 
