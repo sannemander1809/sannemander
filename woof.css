@@ -24,15 +24,29 @@
     margin: -30px;
     border-radius: 10px 10px 0px 0px;
     margin-top: -30px;
-    margin-bottom: -38px;
+    margin-bottom: -26px;
 }
 .small-woof {
     position: relative;
     z-index: 6;
+    margin-top: 5px;
+    font-family: 'Baskervville';
+    font-weight: 700;
+    color: #ffffff;
+    font-style: italic;
 }
 .big-woof {
     position: relative;
     z-index: 6;
+    font-family: "Baskervville", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-top: 22px;
+    text-shadow: 0 0 7px;
+    color: #ffffff;
 }
 .woof-img-color {
     background: #341e1f;
