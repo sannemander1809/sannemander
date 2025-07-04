@@ -43,7 +43,7 @@
     font-family: "Noto Serif", serif;
     border-left-width: 1px;
 }
-b,umi {
+.umi-text-b {
     color: #829f95;
     font-size: 15px;
     font-style: italic;
