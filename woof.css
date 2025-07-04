@@ -177,7 +177,8 @@
     display: flex;
     gap: 10px;
     margin-left: 79px;
-}.woof-tag {
+}
+.woof-tag {
     background: #252525;
     padding: 3px;
     padding-left: 20px;
