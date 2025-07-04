@@ -168,13 +168,15 @@
     mix-blend-mode: overlay;
     margin-top: 27px;
     margin-right: 565px;
+    opacity: 47%;
 }
 .woof-tags {
     margin-bottom: 0px;
     padding-top: 10px;
     display: flex;
     gap: 10px;
-    margin-left: 79px;
+    margin-left: 62px;
+    position: relative;
 }
 .woof-tag {
     background: #252525;
