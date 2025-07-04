@@ -17,6 +17,7 @@
     outline: solid;
     outline-color: #2a1e1e;
     outline-width: 2px;
+    filter: drop-shadow(2px 4px 6px black);
 }
 .woof-block-1 {
     height: 63px;
