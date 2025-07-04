@@ -228,7 +228,7 @@
     padding-left: 25px;
     text-align: justify;
 }
-b, scb {
+.scam-text b {
     font-family: "Noto Serif", serif;
     font-weight: 700;
     font-size: 12px;
