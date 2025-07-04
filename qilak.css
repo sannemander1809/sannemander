@@ -86,7 +86,7 @@
     padding-left: 25px;
     text-align: justify;
 }
-b, qil {
+.qil-txt b {
     color: #bcd0d7;
     font-size: 15px;
     font-style: italic;
