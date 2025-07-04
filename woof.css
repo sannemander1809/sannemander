@@ -192,8 +192,9 @@
     outline: solid;
     outline-color: #3a3a3a;
 }
-.b, woof  {
-    color: var(--woofb);
+b, woof {
+    font-family: 'Baskervville';
     font-style: italic;
-    font-size: 15px;
+    font-size: 14px;
+    color: var(--woofb);
 }
