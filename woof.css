@@ -192,7 +192,7 @@
     outline: solid;
     outline-color: #3a3a3a;
 }
-.woof-body b {
+.body-woof b {
     color: var(--woofb);
     font-style: italic;
     font-size: 15px;
