@@ -48,7 +48,7 @@
     padding: 30px;
     margin: 20px;
     outline: solid;
-    outline-color: #2a1e1e;
+    outline-color: var(--woofoutline);
     outline-width: 2px;
     filter: drop-shadow(2px 4px 6px black);
 }
@@ -56,7 +56,7 @@
     height: 63px;
     background: rgb(70, 49, 50);
     margin: -30px;
-    border-radius: 10px 10px 0px 0px;
+    border-radius: var(--woofblock);
     margin-top: -30px;
     margin-bottom: -26px;
 }
@@ -83,7 +83,7 @@
     color: #ffffff;
 }
 .woof-img-color {
-    background: #341e1f;
+    background: var(--woofimgcolor);
     height: 110px;
     margin: -30px;
     margin-top: -73px;
@@ -105,9 +105,9 @@
     box-shadow: inset 0 0 10px #000000;
     border-bottom: solid;
     border-bottom-width: 3;
-    border-bottom-color: #2a1e1e;
+    border-bottom-color: var(--woofoutline);
     border-top: solid;
-    border-top-color: #2a1e1e;
+    border-top-color: var(--woofoutline);
     border-top-width: 3px;
 }
 .woof-scenery {
@@ -150,12 +150,12 @@
     filter: saturate(0.7) contrast(0.6) brightness(0.45);
     margin-right: -27px;
     outline: solid;
-    outline-color: #2a1e1e;
+    outline-color: var(--woofoutline);
     outline-width: 3px;
 }
 .woof-block-2 {
     height: 76px;
-    background: rgb(70, 49, 50);
+    background: var(--woofblock);
     margin: -30px;
     border-radius: 0px 0px 10px 10px;
     margin-top: -76px;
@@ -187,7 +187,7 @@
     outline-color: #3a3a3a;
 }
 woof, b {
-    color: #ab7676;
+    color: var(--woofb);
     font-style: italic;
     font-size: 15px;
 }
