@@ -145,12 +145,12 @@
     margin-bottom: -24px;
     margin-top: -32px;
     background-size: cover;
-    background-position: center
     filter: saturate(0.7) contrast(0.6) brightness(0.45);
     margin-right: -27px;
     outline: solid;
     outline-color: var(--woofoutline);
     outline-width: 3px;
+    background-position: center
 }
 .woof-block-2 {
     height: 76px;
