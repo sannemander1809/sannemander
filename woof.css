@@ -102,6 +102,9 @@
     text-align: justify;
     margin-left: -14px;
     margin-right: 29px;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+    border-color: #3a3a3a;
 }
 .woof-side-image {
     background-image: url(https://images2.imgbox.com/71/5f/dpP0nSBZ_o.png);
