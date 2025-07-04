@@ -18,15 +18,13 @@
     outline-color: #2a1e1e;
     outline-width: 2px;
 }
-.woof-block-1 {
-    height: 35px;
-    background: rgb(70, 49, 50);
-    margin: -30px;
-    border-radius: 10px 10px 0px 0px;
-    margin-bottom: 35px;
-    border-bottom: solid;
-    border-bottom-width: 4;
-    border-bottom-color: #2a1e1e;
+.small.woof {
+    position: relative;
+    z-index: 6;
+}
+.big-woof {
+    position: relative;
+    z-index: 6;
 }
 .woof-img-color {
     background: #341e1f;
@@ -35,7 +33,7 @@
     margin-top: -36px;
     margin-bottom: 35px;
     position: relative;
-    z-index: 7;
+    z-index: 5;
     mix-blend-mode: color;
 }
 .woof-scenery-image {
@@ -45,7 +43,7 @@
     margin-top: -145px;
     margin-bottom: 35px;
     position: relative;
-    z-index: 6;
+    z-index: 4;
     background-size: cover;
     filter: grayscale(1);
     box-shadow: inset 0 0 10px #000000;
@@ -60,7 +58,7 @@
     margin-top: -145px;
     margin-bottom: 35px;
     position: relative;
-    z-index: 5;
+    z-index: 3;
     background-size: cover;
 }
 .woof-flex {
