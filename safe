@@ -1,0 +1,155 @@
+.background-woof {
+    background: #181818;
+    border-radius: 10px;
+    width: 700;
+    outline: solid;
+    outline-color: #222222;
+    outline-width: 6px;
+    border: solid;
+    border-width: 3px;
+    border-color: #3a3a3a;
+}
+.body-woof {
+    background: rgb(37, 37, 37);
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    outline: solid;
+    outline-color: #2a1e1e;
+    outline-width: 2px;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.woof-block-1 {
+    height: 63px;
+    background: rgb(70, 49, 50);
+    margin: -30px;
+    border-radius: 10px 10px 0px 0px;
+    margin-top: -30px;
+    margin-bottom: -26px;
+}
+.small-woof {
+    position: relative;
+    z-index: 6;
+    margin-top: 5px;
+    font-family: 'Baskervville';
+    font-weight: 700;
+    color: #ffffff;
+    font-style: italic;
+}
+.big-woof {
+    position: relative;
+    z-index: 6;
+    font-family: "Baskervville", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 23px;
+    text-transform: uppercase;
+    margin-top: 22px;
+    text-shadow: 0 0 7px;
+    color: #ffffff;
+}
+.woof-img-color {
+    background: #341e1f;
+    height: 110px;
+    margin: -30px;
+    margin-top: -73px;
+    margin-bottom: 35px;
+    position: relative;
+    z-index: 5;
+    mix-blend-mode: color;
+}
+.woof-scenery-image {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/086/301/501/large/ariane-lemelin-red-artblast-al-llg-01.jpg?1742853466);
+    height: 110px;
+    margin: -30px;
+    margin-top: -145px;
+    margin-bottom: 35px;
+    position: relative;
+    z-index: 4;
+    background-size: cover;
+    filter: grayscale(1) saturate(0.5) contrast(0.7) brightness(0.6);
+    box-shadow: inset 0 0 10px #000000;
+    border-bottom: solid;
+    border-bottom-width: 3;
+    border-bottom-color: #2a1e1e;
+    border-top: solid;
+    border-top-color: #2a1e1e;
+    border-top-width: 3px;
+}
+.woof-scenery {
+    background: black;
+    height: 110px;
+    margin: -30px;
+    margin-top: -145px;
+    margin-bottom: 35px;
+    position: relative;
+    z-index: 3;
+    background-size: cover;
+}
+.woof-flex {
+    display: flex;
+}
+.woof-text {
+    width: 560px;
+    padding: 31px;
+    padding-top: 1px;
+    padding-bottom: 25px;
+    font-weight: 300;
+    color: #d9d9d9;
+    text-shadow: 1px 1px 1px #000;
+    font-family: "Noto Serif", serif;
+    z-index: 3;
+    text-align: justify;
+    margin-left: -14px;
+    margin-right: 29px;
+    border-bottom: solid;
+    border-bottom-width: 1px;
+    border-color: #3a3a3a;
+}
+.woof-side-image {
+    background-image: url(https://images2.imgbox.com/71/5f/dpP0nSBZ_o.png);
+    width: 307px;
+    margin-bottom: -24px;
+    margin-top: -32px;
+    background-size: cover;
+    background-position: center;
+    filter: saturate(0.7) contrast(0.6) brightness(0.45);
+    margin-right: -27px;
+    outline: solid;
+    outline-color: #2a1e1e;
+    outline-width: 3px;
+}
+.woof-block-2 {
+    height: 76px;
+    background: rgb(70, 49, 50);
+    margin: -30px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: -76px;
+    margin-bottom: -63px;
+}
+.symbol-woof {
+    background-image: url(https://i98.servimg.com/u/f98/20/60/58/13/leaf-f10.png);
+    background-size: cover;
+    height: 76;
+    width: 76;
+    filter: contrast(0) brightness(1.3) drop-shadow(2px -1px 2px #fff);
+    mix-blend-mode: overlay;
+    margin-top: 27px;
+    margin-right: 565px;
+}
+.woof-tags {
+    margin-bottom: 0px;
+    padding-top: 10px;
+    display: flex;
+    gap: 10px;
+    margin-left: 79px;
+}.woof-tag {
+    background: #252525;
+    padding: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    outline: solid;
+    outline-color: #3a3a3a;
+}
