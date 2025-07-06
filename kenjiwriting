@@ -1,0 +1,37 @@
+.kenji-background {
+    background-image: url(https://i.pinimg.com/736x/5a/b9/db/5ab9db01cb575594a72aa4237a74e83f.jpg);
+    width: 550;
+    filter: drop-shadow(2px 4px 6px black);
+    background-size: cover;
+}
+.kenji-body {
+    padding: 56px;
+    margin-right: 27px;
+    margin-left: -22px;
+    line-height: 1;
+}
+.kenji-to {
+    font-family: Babylonica, cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 61px;
+    mix-blend-mode: color-burn;
+    margin-bottom: 0px;
+}
+.kenji-text {
+    font-family: "Babylonica", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 30;
+    mix-blend-mode: color-burn;
+}
+.kenji-text {
+    font-family: "Babylonica", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    font-size: 30;
+    mix-blend-mode: color-burn;
+}
