@@ -3,6 +3,8 @@
     width: 550;
     filter: drop-shadow(2px 4px 6px black);
     background-size: cover;
+    box-shadow: inset 0 0 10px #55220b;
+    filter: brightness(-17.5);
 }
 .kenji-body {
     padding: 56px;
@@ -27,11 +29,13 @@
     font-size: 30;
     mix-blend-mode: color-burn;
 }
-.kenji-text {
+.kenji-from {
     font-family: "Babylonica", cursive;
     font-weight: 400;
     font-style: normal;
     color: black;
-    font-size: 30;
+    font-size: 48px;
     mix-blend-mode: color-burn;
+    text-align: right;
+    margin-top: 33px;
 }
