@@ -28,8 +28,12 @@
     --woofblock: rgb(64 62 55);
     --woofb: #b99f7f; 
 }
-
-
+.foggy {
+    --woofoutline: #21302a
+    --woofimgcolor: #21302a
+    --woofblock: #39403c
+    --woofb: #819e94 
+}        
 
 .background-woof {
     background: #181818;
