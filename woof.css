@@ -29,10 +29,10 @@
     --woofb: #b99f7f; 
 }
 .foggy {
-    --woofoutline: #21302a
-    --woofimgcolor: #21302a
-    --woofblock: #39403c
-    --woofb: #819e94 
+    --woofoutline: #21302a;
+    --woofimgcolor: #21302a;
+    --woofblock: #39403c;
+    --woofb: #819e94; 
 }        
 
 .background-woof {
