@@ -191,6 +191,7 @@
     border-radius: 10px;
     outline: solid;
     outline-color: #3a3a3a;
+    font-family: 'Spectral SC';
 }
 .body-woof b {
     color: var(--woofb);
