@@ -1,0 +1,161 @@
+.cam-background {
+    background-image: url(https://i.pinimg.com/736x/1a/a0/09/1aa0097aaf99e0fe099c2f84f2e4f692.jpg);
+    width: 750px;
+    border-radius: 10px;
+    outline: rgb(24 24 24) solid 6px;
+    border-style: solid;
+    border-image: initial;
+    border-width: 3px;
+    border-color: rgb(56 63 66);
+    background-size: contain;
+    filter: drop-shadow(2px 4px 6px black);
+}
+.cam-body {
+    background: #252525;
+    padding: 30;
+    margin: 20;
+    filter: drop-shadow(2px 4px 6px black);
+    outline: solid;
+    outline-color: #383f42;
+}
+.cam-block {
+    background: #1f3039;
+    height: 186px;
+    margin: -30px;
+    margin-bottom: 25px;
+    position: relative;
+    z-index: 4;
+    margin-top: 156px;
+    outline: solid;
+    outline-color: #383f42;
+    filter: drop-shadow(2px 4px 6px black);
+    box-shadow: inset 0 0 10px #000000;
+}
+.cam-starry {
+    background-image: url(https://i.pinimg.com/originals/0b/e7/48/0be748204b77ec2211c3230442e468a9.gif);
+    height: 186;
+    width: 240px;
+    filter: grayscale(1);
+    position: relative;
+    z-index: 1;
+    margin-left: -463px;
+    clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 0 49%, 0% 0%);
+    margin-top: -186px;
+}
+.cam-icon {
+    background: blue;
+    height: 150;
+    width: 150;
+    border-radius: 100%;
+    outline: solid;
+    outline-width: 3px;
+    outline-color: #1f3039;
+    margin-top: -169px;
+    margin-left: -500px;
+    position: relative;
+    z-index: 6;
+}
+.cam-icon-img {
+    background-image: url(https://i.pinimg.com/736x/07/9b/42/079b42ae34b4b4d7200057dcb840be4e.jpg);
+    height: 150;
+    width: 150;
+    border-radius: 100%;
+    background-size: cover;
+    filter: grayscale(1);
+    margin-top: -150px;
+    margin-left: -500px;
+    position: relative;
+    z-index: 6;
+}
+.cam-quotes {
+    position: relative;
+    z-index: 5;
+    margin-top: -94px;
+    margin-left: 216px;
+}
+.cam-txt {
+    padding: 21px;
+    border-left: solid;
+    border-left-color: #383f42;
+    margin-left: 27px;
+    margin-right: 27px;
+    font-size: 13px;
+    font-family: "Noto Serif", serif;
+    border-left-width: 1px;
+    border-left-style: solid;
+    padding-top: 22px;
+    padding-left: 25px;
+    text-align: justify;
+}
+.cam-txt b {
+    color: #bcd0d7;
+    font-size: 15px;
+    font-style: italic;
+    font-family: 'Josefin sans-serif';
+}
+.cam txt i {
+    color: rgb(188, 208, 215);
+    font-size: 15px;
+    font-style: italic;
+    font-family: "Josefin sans-serif";
+}
+.cam-quote-qil {
+    font-size: 30px;
+    color: #ffffff;
+    text-shadow: 1px 1px 5px #000000;
+    text-align: center;
+    font-weight: 400;
+    font-family: "Fleur De Leah", cursive;
+    font-style: italic;
+}
+.small-quote-cam {
+    margin-top: 21px;
+    color: #c5c5c5;
+    font-family: 'Spectral SC';
+    font-size: 11px;
+    font-style: italic;
+    text-align: center;
+}
+.cam-txt {
+    padding: 21px;
+    border-left: solid;
+    border-left-color: #383f42;
+    margin-left: 27px;
+    margin-right: 27px;
+}
+.cam-moony {
+    background-image: url(https://i.imgur.com/JenKTHy.gif);
+    height: 131px;
+    width: 241px;
+    background-size: cover;
+    margin-left: 435px;
+    margin-top: -60px;
+    opacity: 15%;
+    margin-bottom: -27px;
+}
+.cam-tags {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 10px;
+    position: relative;
+    z-index: 5;
+    margin-top: 8px;
+    margin-left: -252px;
+}
+.cam-tag {
+    background: #383f42;
+    padding: 5px;
+    font-size: 8px;
+    font-weight: 900;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Roboto';
+    text-shadow: none;
+    border: 2px solid #434343;
+    filter: brightness(0.8) saturate(0.7);
+    color: #fff;
+    letter-spacing: 1px;
+}
