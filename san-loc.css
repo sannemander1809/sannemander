@@ -23,16 +23,31 @@
 }
 .loc-san-images {
     display: flex;
-    gap: 25px;
+    gap: 9px;
+    margin: -23px;
+    height: 202px;
 }
 .san-loc--img1 {
-    background: #aaa;
+    background-image: url(https://i.pinimg.com/1200x/55/58/e5/5558e5e2ba98832da94407ae19322fc4.jpg);
     width: 250;
     border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    filter: saturate(0.7) contrast(0.8) brightness(0.90);
+}
+.san-loc--img2 {
+    background: beige;
+    width: 250;
+    border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    filter: saturate(0.7) contrast(0.8) brightness(0.90);
 }
 .san-loc--img3 {
-    background: #2c353b;
-    height: 250;
+    background: beige;
     width: 250;
     border-radius: 10px;
+    background-size: cover;
+    background-position: center;
+    filter: saturate(0.7) contrast(0.8) brightness(0.90);
 }
