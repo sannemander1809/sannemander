@@ -207,7 +207,7 @@
     font-style: italic;
     font-size: 13px;
 }
-.body-woof q {
+.body-woof p {
     color: #d9d9d9;
     background: var(--woofq);
     padding: 17px;
