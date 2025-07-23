@@ -3,6 +3,7 @@
     --woofimgcolor: #393f38;
     --woofblock: rgb(57 63 56);
     --woofb: #89a488;   
+
 }
 .fire {
     --woofoutline: #2a1e1e;
@@ -205,7 +206,7 @@
 }
 .body-woof q {
     color: #d9d9d9;
-    background: #373d46;
+    background: var(--topicbg)
     padding: 17px;
     outline: solid;
     outline-color: #3a3a3a;
