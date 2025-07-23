@@ -22,7 +22,7 @@
     --woofimgcolor: #1f2a35;
     --woofblock: rgb(55 61 70);
     --woofb: #90b2c7;
-    --woofq: #1f2a35;
+    --woofq: #373d46;
     
 }
 .sand {
@@ -211,8 +211,6 @@
     color: #d9d9d9;
     background: var(--woofq);
     padding: 17px;
-    outline: solid;
-    outline-color: #3a3a3a;
     display: inline-block;
     outline: solid;
     outline-width: 5px;
