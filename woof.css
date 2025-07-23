@@ -18,28 +18,28 @@
     --woofimgcolor: #1e2b33;
     --woofblock: rgb(56 63 66);
     --woofb: #bcd0d7; 
-     --woofq:rgb(57 63 56);
+    --woofq:rgb(57 63 56);
 }
 .swater {
     --woofoutline: #1f2a35;
     --woofimgcolor: #1f2a35;
     --woofblock: rgb(55 61 70);
     --woofb: #90b2c7   
-     --woofq:rgb(57 63 56);
+    --woofq:rgb(57 63 56);
 }
 .sand {
-     --woofoutline: #312c23;
+    --woofoutline: #312c23;
     --woofimgcolor: #312c23;
     --woofblock: rgb(64 62 55);
     --woofb: #b99f7f; 
-     --woofq:rgb(57 63 56);
+    --woofq:rgb(57 63 56);
 }
 .foggy {
     --woofoutline: #21302a;
     --woofimgcolor: #21302a;
     --woofblock: #39403c;
     --woofb: #819e94; 
-     --woofq:rgb(57 63 56);
+    --woofq:rgb(57 63 56);
 }        
 
 .background-woof {
@@ -212,7 +212,7 @@
 }
 .body-woof q {
     color: #d9d9d9;
-    background: var(--woofq)
+    background: var(--woofq);
     padding: 17px;
     outline: solid;
     outline-color: #3a3a3a;
