@@ -3,29 +3,27 @@
     --woofimgcolor: #393f38;
     --woofblock: rgb(57 63 56);
     --woofb: #89a488;  
-    --woofq:#363c45;
-
 }
 .fire {
     --woofoutline: #2a1e1e;
     --woofimgcolor: #341e1f;
     --woofblock: rgb(70, 49, 50);
     --woofb: #ab7676;
-    --woofq:rgb(70, 49, 50);
-}
+   }
 .nwater {
     --woofoutline: #1e2b33;
     --woofimgcolor: #1e2b33;
     --woofblock: rgb(56 63 66);
     --woofb: #bcd0d7; 
-    --woofq:rgb(56 63 66);
+    
 }
 .swater {
     --woofoutline: #1f2a35;
     --woofimgcolor: #1f2a35;
     --woofblock: rgb(55 61 70);
-    --woofb: #90b2c7   
-    --bodyq: #363c45;
+    --woofb: #90b2c7;
+    --woofq: #1f2a35;
+    
 }
 .sand {
     --woofoutline: #312c23;
@@ -39,7 +37,6 @@
     --woofimgcolor: #21302a;
     --woofblock: #39403c;
     --woofb: #819e94; 
-    --woofq:rgb(57 63 56);
 }        
 
 .background-woof {
