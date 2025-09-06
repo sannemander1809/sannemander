@@ -16,7 +16,7 @@
     padding: 30px;
     margin: 20px;
     outline: solid;
-    outline-color: var(--woofoutline);
+    outline-color: #191919;
     outline-width: 2px;
     filter: drop-shadow(2px 4px 6px black);
 }
