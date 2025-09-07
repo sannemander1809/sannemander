@@ -23,23 +23,3 @@
 .renoir-img-block {
     margin-bottom: 10px;
 }
-.renoir-main-img {
-    background-image: url(https://cdna.artstation.com/p/assets/images/images/066/318/374/large/adrien-paguet-brunella-adrien-paguet-brunella-acv-nature-11.jpg?1692627658);
-    height: 180;
-    margin: -30px;
-    border-radius: 10px 10px 0px 0px;
-    background-size: cover;
-    background-position: center;
-    filter: saturate(0.9) contrast(0.9) brightness(0.4);
-    position: relative;
-    margin-bottom: -180px;
-}
-.renoir-img-colour {
-    background: #2a3840;
-    height: 180;
-    margin: -30px;
-    border-radius: 10px 10px 0px 0px;
-    position: relative;
-    mix-blend-mode: color;
-    filter: opacity(0.7) contrast(0.3);
-}
