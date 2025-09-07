@@ -40,3 +40,29 @@
     filter: saturate(0.7) contrast(0.6) brightness(0.45);
     box-shadow: inset 0 0 5px #000000;
 }
+.renoir-symbol-overlay {
+    margin-top: -197px;
+    margin-bottom: 46px;
+    margin-right: -364px;
+    width: 342px;
+}
+.renoir-overlayer {
+    clip-path: polygon(25% 0%, 100% 0, 100% 50%, 100% 100%, 25% 100%, 0% 50%);
+    background: #20313a;
+    height: 158;
+    width: 339px;
+    border-radius: 10px 10px 0px 0px;
+    filter: opacity(0.5);
+}
+.renoir-symbol {
+    background-image: url(https://cdn-icons-png.flaticon.com/128/10217/10217105.png);
+    height: 158;
+    width: 158;
+    margin-top: -158px;
+    position: relative;
+    margin-right: -99px;
+    background-position: center;
+    background-size: cover;
+    filter: contrast(0) brightness(1.3) drop-shadow(2px -1px 2px #fff);
+    mix-blend-mode: overlay;
+}
