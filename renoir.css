@@ -22,12 +22,12 @@
 }
 .renoir-img-block {
     background: #000000;
-    height: 187px;
+    height: 165px;
     border-radius: 10px 10px 0px 0px;
     margin: -30px;
     margin-bottom: 10px;
     border-bottom-style: solid;
-    border-bottom-width: 30px;
+    border-bottom-width: 7px;
     border-bottom-color: #2c2c2c;
 }
 .renoir-main-img {
