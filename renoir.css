@@ -169,7 +169,7 @@ brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(14
     background: linear-gradient(189deg, #1b1b1b, #26252500);
     position: relative;
     z-index: 3;
-    margin-top: -170px;
+    margin-top: -285px;
 }
 .renoir-lower-img {
     height: 250px;
