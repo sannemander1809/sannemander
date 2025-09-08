@@ -200,4 +200,12 @@
     outline-color: #3a3a3a;
     font-family: 'Spectral SC';
     font-size: 12px;
+    color: var(--default);
+}
+.body-renoir b {
+    font-size: 14px;
+    color: var(--default);
+}
+.body-renoir i {
+    color: var(--default);
 }
