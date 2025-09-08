@@ -160,7 +160,7 @@ brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(14
     z-index: 3;
     margin-top: -136px;
     mix-blend-mode: color;
-    filter: opacity(0.4);
+    filter: opacity(0.2);
 }
 .renoir-lower-img-overlay {
     height: 250px;
