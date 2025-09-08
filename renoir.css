@@ -151,3 +151,12 @@ brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(14
     margin-right: -458px;
     z-index: 4;
 }
+.renoir-lower-img {
+    height: 250px;
+    margin: -31px;
+    border-radius: 0px 0px 10px 10px;
+    margin-top: -176px;
+    background-image: url(https://cdna.artstation.com/p/assets/images/images/058/984/794/large/kyle-bromley-kbromley-for100-fin01.jpg?1675366478);
+    background-size: cover;
+    background-position: center;
+}
