@@ -11,7 +11,7 @@
     background-image: url(https://64.media.tumblr.com/6fa9ad9f859cf058bfe19a2536b0aa11/tumblr_pkv647vWBM1xp1j77o1_540.gifv);
 }
 .body-renoir {
-    background: rgb(37, 37, 37);
+    background: #1b1b1b;
     border-radius: 10px;
     padding: 30px;
     margin: 20px;
@@ -132,8 +132,8 @@ brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(14
     margin-right: -30px;
     margin-top: -13px;
     background-size: cover;
-    filter: saturate(0.96) contrast(0.6) brightness(0.5);
-    box-shadow: inset 0 0 120px #252525, inset 0 0 80px #000, inset 0 0 40px #252525;
+    filter: saturate(0.6) contrast(0.6) brightness(0.4);
+    box-shadow: inset 0 0 120px #1b1b1b, inset 0 0 80px #1b1b1b, inset 0 0 40px #191919;
     border-left: #313131;
 }
 .renoir-sidefill {
@@ -144,7 +144,7 @@ brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(14
 .renoir-side-over {
     width: 243px;
     height: 440px;
-    background: linear-gradient(0deg, #252525, #26252500);
+    background: linear-gradient(0deg, #1b1b1b, #26252500);
     margin-bottom: -401px;
     position: relative;
     margin-top: -43px;
@@ -162,6 +162,15 @@ brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(14
     mix-blend-mode: color;
     filter: opacity(0.4);
 }
+.renoir-lower-img-overlay {
+    height: 250px;
+    margin: -30px;
+    border-radius: 0px 0px 10px 10px;
+    background: linear-gradient(189deg, #1b1b1b, #26252500);
+    position: relative;
+    z-index: 3;
+    margin-top: -170px;
+}
 .renoir-lower-img {
     height: 250px;
     margin: -30px;
@@ -170,26 +179,6 @@ brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(14
     background-image: url(https://cdna.artstation.com/p/assets/images/images/058/984/794/large/kyle-bromley-kbromley-for100-fin01.jpg?1675366478);
     background-size: cover;
     background-position: center;
-    filter: saturate(0.96) contrast(0.6) brightness(0.5);
-    box-shadow: inset 0 0 120px #252525, inset 0 0 80px #000, inset 0 0 40px #252525;
-}
-.renoir-lower-img-overlay {
-    height: 250px;
-    margin: -30px;
-    border-radius: 0px 0px 10px 10px;
-    background: linear-gradient(180deg, #252525, #26252500);
-    position: relative;
-    z-index: 3;
-    margin-top: -170px;
-}
-.renoir-lower-img-colour {
-    height: 250px;
-    margin: -30px;
-    border-radius: 0px 0px 10px 10px;
-    background: var(--topicbg);
-    position: relative;
-    z-index: 2;
-    margin-top: -249px;
-    mix-blend-mode: color;
-    filter: opacity(0.4);
+    filter: saturate(0.6) contrast(0.6) brightness(0.4);
+    box-shadow: inset 0 0 120px #191919, inset 0 0 80px #191919, inset 0 0 40px #191919;
 }
