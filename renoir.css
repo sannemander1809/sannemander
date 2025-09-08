@@ -168,7 +168,7 @@
     background: linear-gradient(189deg, #1b1b1b, #26252500);
     position: relative;
     z-index: 3;
-    margin-top: -285px;
+    margin-top: -338px;
 }
 .renoir-lower-img {
     height: 250px;
@@ -180,4 +180,24 @@
     background-position: center;
     filter: saturate(0.6) contrast(0.6) brightness(0.4);
     box-shadow: inset 0 0 19px #191919, inset 0 0 80px #191919, inset 0 0 180px #191919;
+}
+.renoir-tags {
+    margin-bottom: -12px;
+    padding-top: 26px;
+    display: flex;
+    gap: 10px;
+    margin-left: 424px;
+    position: relative;
+    z-index: 5;
+}
+.renoir-tag {
+    background: #252525;
+    padding: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    outline: solid;
+    outline-color: #3a3a3a;
+    font-family: 'Spectral SC';
+    font-size: 12px;
 }
