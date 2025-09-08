@@ -95,8 +95,7 @@
     background-position: center;
     background-size: cover;
     mix-blend-mode: overlay;
-    filter: var(--elementcolor)
-brightness(0) saturate(100%) invert(75%) sepia(2%) saturate(2283%) hue-rotate(142deg) brightness(87%) contrast(85%);
+    filter: var(--elementcolor);
 }
 .renoir-content {
     display: flex;
