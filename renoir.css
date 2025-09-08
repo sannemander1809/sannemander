@@ -33,13 +33,13 @@
 .renoir-main-img {
     background-image: url(https://nl.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_horizon_zero_dawn_-_the_frozen_wilds_02_2560x1080.jpg&height=506&sharpen);
     height: 158px;
+    width: 396px;
     border-radius: 10px 10px 0px 0px;
     background-position: center;
     background-size: cover;
-    background-position-y: -127px;
-    background-position-x: -71px;
     filter: saturate(0.7) contrast(0.6) brightness(0.45);
     box-shadow: inset 0 0 5px #000000;
+    margin-left: -308px;
 }
 .renoir-symbol-overlay {
     margin-top: -175px;
