@@ -127,12 +127,23 @@
     margin-right: -27px;
     margin-top: -13px;
     background-size: cover;
-    filter: saturate(0.7) contrast(0.6) brightness(0.45);
-    box-shadow: inset 0 0 5px #000000;
+    filter: saturate(0.96) contrast(0.6) brightness(0.5);
+    box-shadow: inset 0 0 120px #252525, inset 0 0 80px #000, inset 0 0 40px #252525;
+    border: #2c2c2c;
+    border-style: solid;
 }
 .renoir-sidefill {
     background: beige;
     margin-right: -30px;
     margin-top: -17px;
 }
-
+.renoir-side-over {
+    width: 243px;
+    height: 440px;
+    background: linear-gradient(0deg, #252525, #26252500);
+    margin-bottom: -401px;
+    position: relative;
+    margin-top: -43px;
+    margin-right: -458px;
+    z-index: 4;
+}
