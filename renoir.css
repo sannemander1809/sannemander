@@ -76,14 +76,15 @@
 .renoir-big-quote {
     position: relative;
     z-index: 3;
-    font-family: "Carattere", cursive;
-    font-weight: 400;
-    font-style: normal;
-    font-size: 82px;
+    font-size: 29px;
     color: var(--lastbg);
-    margin-top: -198px;
-    margin-right: 47px;
+    margin-top: -189px;
+    margin-right: -43px;
     text-shadow: 0 0 7px;
+    font-family: "Genos", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 .renoir-symbol {
     background-image: url(https://cdn-icons-png.flaticon.com/128/10217/10217105.png);
