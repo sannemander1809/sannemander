@@ -73,6 +73,18 @@
     padding: 6px;
     filter: drop-shadow(2px 4px 6px black);
 }
+.renoir-big-quote {
+    position: relative;
+    z-index: 3;
+    font-family: "Carattere", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 82px;
+    color: #bcd0d7;
+    margin-top: -198px;
+    margin-right: 47px;
+    text-shadow: 0 0 7px;
+}
 .renoir-symbol {
     background-image: url(https://cdn-icons-png.flaticon.com/128/10217/10217105.png);
     height: 158;
