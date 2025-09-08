@@ -28,7 +28,7 @@
     margin-bottom: 10px;
     border-bottom-style: solid;
     border-bottom-width: 7px;
-    border-bottom-color: #2c2c2c;
+    border-bottom-color: var(--defaultdark);
 }
 .renoir-main-img {
     background-image: url(https://nl.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_horizon_zero_dawn_-_the_frozen_wilds_02_2560x1080.jpg&height=506&sharpen);
