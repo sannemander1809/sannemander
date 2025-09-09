@@ -211,3 +211,7 @@
 .body-renoir i {
     color: var(--default);
 }
+.renoir.filler {
+    height: 300;
+    margin-top: -242px;
+}
