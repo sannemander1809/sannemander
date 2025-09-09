@@ -188,10 +188,9 @@
     padding-top: 26px;
     display: flex;
     gap: 10px;
-    margin-left: 392px;
+    margin-left: 378px;
     position: relative;
     z-index: 5;
-    width: 500;
 }
 .renoir-tag {
     background: #252525;
