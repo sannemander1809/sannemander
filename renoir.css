@@ -99,10 +99,9 @@
     mix-blend-mode: overlay;
     filter: var(--elementcolor);
 }
-.renoir-column {
+.renoir-content {
     display: flex;
-    flex-direction: column;
-    height: 406px;
+    max-height: 100%;
 }
 .renoir-txt {
     text-align: justify;
@@ -122,7 +121,6 @@
     z-index: 4;
     border: #3a3a3a;
     border-style: double;
-    width: 609px;
 }
 .renoir-column {
     display: flex;
