@@ -9,6 +9,7 @@
     border-color: #3a3a3a;
     background-size: contain;
     background-image: url(https://64.media.tumblr.com/6fa9ad9f859cf058bfe19a2536b0aa11/tumblr_pkv647vWBM1xp1j77o1_540.gifv);
+    border-radius: 10px 10px 10px 10px;
 }
 .body-renoir {
     background: #1b1b1b;
