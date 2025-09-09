@@ -170,7 +170,7 @@
     background: linear-gradient(189deg, #1b1b1b, #26252500);
     position: relative;
     z-index: 3;
-    margin-top: -214px;
+    margin-top: -227px;
 }
 .renoir-lower-img {
     height: 250px;
@@ -188,9 +188,10 @@
     padding-top: 26px;
     display: flex;
     gap: 10px;
-    margin-left: 424px;
+    margin-left: 392px;
     position: relative;
     z-index: 5;
+    width: 500;
 }
 .renoir-tag {
     background: #252525;
