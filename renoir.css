@@ -159,7 +159,7 @@
     background: var(--topicbg);
     position: relative;
     z-index: 3;
-    margin-top: -136px;
+    margin-top: -250px;
     mix-blend-mode: color;
     filter: opacity(0.2);
 }
@@ -170,13 +170,13 @@
     background: linear-gradient(189deg, #1b1b1b, #26252500);
     position: relative;
     z-index: 3;
-    margin-top: -338px;
+    margin-top: -214px;
 }
 .renoir-lower-img {
     height: 250px;
     margin: -30px;
     border-radius: 0px 0px 10px 10px;
-    margin-top: -249px;
+    margin-top: -250px;
     background-image: url(https://cdna.artstation.com/p/assets/images/images/058/984/794/large/kyle-bromley-kbromley-for100-fin01.jpg?1675366478);
     background-size: cover;
     background-position: center;
