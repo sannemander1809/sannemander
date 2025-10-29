@@ -196,7 +196,7 @@
     margin-top: -242px;
 }
 .renoir-lower-q {
-    color: white;
+    color: #747474;
     z-index: 4;
     text-shadow: 0 0 7px;
     font-family: 'Oranienbaum';
@@ -205,13 +205,8 @@
     font-style: normal;
     text-transform: uppercase;
     position: absolute;
-    font-size: 16px;
-    font-style: italic;
+    font-size: 14px;
     margin-top: 56px;
-    margin-left: 196px;
-    margin-top: 33px;
-    mix-blend-mode: overlay;
-    background: #5e5e5e;
-    padding: 3px;
-    border-radius: 10px;
+    margin-left: 230px;
+    margin-top: -1px;
 }
