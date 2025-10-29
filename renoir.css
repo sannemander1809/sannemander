@@ -216,3 +216,19 @@
     height: 300;
     margin-top: -242px;
 }
+.renoir-lower-q {
+    color: color: var(--lastbg);
+    z-index: 4;
+    text-shadow: 0 0 7px;
+    font-family: 'Oranienbaum';
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    text-transform: uppercase;
+    position: absolute;
+    font-size: 15;
+    opacity: 40%;
+    font-style: italic;
+    margin-top: 56px;
+    margin-left: 250px;
+}
