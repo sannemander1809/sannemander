@@ -17,19 +17,20 @@
     padding: 30px;
     margin: 20px;
     outline: solid;
-    outline-color: var(--defaultdark);
+    outline-color: #3a3a3a;
     outline-width: 2px;
     filter: drop-shadow(2px 4px 6px black);
 }
-.renoir-img-block {
-    background: #000000;
-    height: 165px;
-    border-radius: 10px 10px 0px 0px;
-    margin: -30px;
-    margin-bottom: 10px;
-    border-bottom-style: solid;
-    border-bottom-width: 7px;
-    border-bottom-color: var(--defaultdark);
+.renoir-symbol {
+    height: 158;
+    width: 158;
+    margin-top: -158px;
+    position: relative;
+    margin-right: -393px;
+    background-position: center;
+    background-size: cover;
+    filter: invert(61%) sepia(38%) saturate(0%) hue-rotate(42deg) brightness(96%) contrast(91%);
+    opacity: .1;
 }
 .renoir-main-img {
     background-image: url(https://nl.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_horizon_zero_dawn_-_the_frozen_wilds_02_2560x1080.jpg&height=506&sharpen);
@@ -77,16 +78,18 @@
 .renoir-big-quote {
     position: relative;
     z-index: 3;
-    font-size: 29px;
-    color: var(--lastbg);
-    margin-top: -189px;
+    font-size: 21px;
+    margin-top: -187px;
     margin-right: -43px;
-    text-shadow: 0 0 7px;
     font-family: 'Oranienbaum';
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
     text-transform: uppercase;
+    background: linear-gradient(to bottom, #898989 30%, #9d9d9d 40%, #3a3a3a 78%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    filter: drop-shadow(2px 4px 6px black);
 }
 .renoir-symbol {
     background-image: url(https://cdn-icons-png.flaticon.com/128/10217/10217105.png);
