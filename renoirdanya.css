@@ -110,8 +110,6 @@
     margin-right: -393px;
     background-position: center;
     background-size: cover;
-    /* mix-blend-mode: overlay; */
-    filter: var(--elementcolor);
     opacity: .1;
 }
 .renoir-content {
