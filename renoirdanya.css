@@ -32,15 +32,16 @@
     border-bottom-color: #3a3a3a;
 }
 .renoir-symbol {
-   height: 158;
+    background-image: url(https://cdn-icons-png.flaticon.com/128/10217/10217105.png);
+    height: 158;
     width: 158;
     margin-top: -158px;
     position: relative;
     margin-right: -393px;
     background-position: center;
     background-size: cover;
-    opacity: 0.1;
-    filter: invert(64%) sepia(70% 70%) saturate(234%) hue-rotate(354deg) brightness(91%) contrast(88%);
+    opacity: .14;
+    filter: invert(64%) sepia(90%) saturate(234%) hue-rotate(354deg) brightness(91%) contrast(88%);
 }
 .renoir-main-img {
     background-image: url(https://nl.gamewallpapers.com/img_script/wallpaper_dir/img.php?src=wallpaper_horizon_zero_dawn_-_the_frozen_wilds_02_2560x1080.jpg&height=506&sharpen);
