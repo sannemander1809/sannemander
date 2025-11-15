@@ -21,6 +21,16 @@
     outline-width: 2px;
     filter: drop-shadow(2px 4px 6px black);
 }
+.renoir-img-block {
+    background: #000000;
+    height: 165px;
+    border-radius: 10px 10px 0px 0px;
+    margin: -30px;
+    margin-bottom: 10px;
+    border-bottom-style: solid;
+    border-bottom-width: 7px;
+    border-bottom-color: #3a3a3a;
+}
 .renoir-symbol {
     height: 158;
     width: 158;
