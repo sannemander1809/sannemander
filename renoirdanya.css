@@ -169,7 +169,7 @@
     height: 180px;
     margin: -30px;
     border-radius: 0px 0px 10px 10px;
-    background: var(--topicbg);
+    background: linear-gradient(45deg, #000000e8, #272827ad);
     position: relative;
     z-index: 3;
     margin-top: -180px;
