@@ -203,6 +203,10 @@
 .body-renoir i {
     color: var(--default);
 }
+.body-renoir j {
+    color: #cca04b;
+    font-style: italic;
+}
 .renoir.filler {
     height: 300;
     margin-top: -242px;
