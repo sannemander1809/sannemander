@@ -213,3 +213,30 @@
     align-content: center;
     position: relative;
 }
+.body-renoir-pageimg {
+    display: inline-block;
+    background: url(https://i78.servimg.com/u/f78/20/60/64/16/untitl10.png);
+    height: 159px;
+    width: 230;
+    margin: 1px;
+    background-size: cover;
+    mix-blend-mode: hard-light;
+    filter: brightness(0.5);
+}
+.body-renoir-page {
+    display: inline-block;
+    background: url(https://img.freepik.com/premium-photo/old-paper-texture-background_118047-1365.jpg);
+    padding: 40px;
+    padding-inline: 24px;
+    color: black;
+    font-family: "Bilbo", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 1;
+    border-radius: 0% 10% 10% 0%;
+    text-wrap-mode: wrap;
+    text-wrap-style: auto;
+    box-shadow: inset 0 0 5px #000000;
+}
+    
