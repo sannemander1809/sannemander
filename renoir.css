@@ -222,6 +222,18 @@
     background-size: cover;
     mix-blend-mode: hard-light;
     filter: brightness(0.5);
+    float: Right
+}
+.body-renoir pageimg2 {
+    display: inline-block;
+    ackground: url(https://i78.servimg.com/u/f78/20/60/64/16/fvfadv10.png);
+    height: 159px;
+    width: 247px;
+    margin: 1px;
+    background-size: cover;
+    mix-blend-mode: hard-light;
+    filter: brightness(0.5);
+    float: Left
 }
 .body-renoir page {
     display: inline-block;
