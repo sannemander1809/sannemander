@@ -200,7 +200,7 @@
     font-optical-sizing: auto;
     font-weight: 500;
     text-transform: uppercase;
-    font-size: 9px;
+    font-size: 11px;
     margin-left: 15px;
     margin-top: -25px;
     font-style: italic;
@@ -213,7 +213,7 @@
     align-content: center;
     position: relative;
 }
-.body-renoir-pageimg {
+.body-renoir pageimg {
     display: inline-block;
     background: url(https://i78.servimg.com/u/f78/20/60/64/16/untitl10.png);
     height: 159px;
@@ -223,7 +223,7 @@
     mix-blend-mode: hard-light;
     filter: brightness(0.5);
 }
-.body-renoir-page {
+.body-renoir page {
     display: inline-block;
     background: url(https://img.freepik.com/premium-photo/old-paper-texture-background_118047-1365.jpg);
     padding: 40px;
