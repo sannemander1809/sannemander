@@ -25,3 +25,15 @@
     margin: -30px;
     margin-bottom: 10px;
 }
+.upper-umik-img {
+    background: url(https://i.pinimg.com/originals/61/45/f3/6145f3202dbdaa74e9aea1b6480c2dc9.gif);
+    height: 50px;
+    margin: -30px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 0px;
+    background-size: cover;
+    background-position: bottom;
+    background-position-y: 101px;
+    box-shadow: inset 0 0 8px #000000;
+}
