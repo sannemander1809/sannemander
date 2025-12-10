@@ -1,3 +1,21 @@
+.mood-bar-umik {
+    width: 100%;
+    height: 10px;
+    border-radius: 10px;
+    background: linear-gradient(0deg, #272727, #565656);
+}
+
+.neg-umik {
+    background: linear-gradient(0deg, #372a2a, #533737);
+}
+
+.pos-umik {
+    background: linear-gradient(0deg, #293629, #3a513a);
+}
+
+.pa-umik {
+  background: linear-gradient(0deg, #3f3730, #594d3d);
+}
 .background-umik {
     background: #181818;
     width: 750;
