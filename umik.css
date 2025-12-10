@@ -89,7 +89,7 @@
 .bar-empty-umik {
     height: 23;
     background: black;
-    width: 200;
+    width: 140px;
     margin-left: 464px;
     border-radius: 10px;
     outline-color: var(--defaultdark);
@@ -99,16 +99,16 @@
 .umik-status {
     font-family: 'Spectral SC';
     margin-top: -19px;
-    margin-left: 191px;
+    margin-left: 239px;
     font-style: italic;
     color: #6e6e6e;
 }
 .Umik-status-header {
     font-size: 12px;
-    letter-spacing: 10px;
+    letter-spacing: 6px;
     font-family: 'Oranienbaum';
     text-transform: uppercase;
-    margin-left: 362px;
+    margin-left: 342px;
     margin-right: -53px;
     margin-bottom: 6px;
     color: var(--default);
@@ -130,4 +130,15 @@
     border: #3a3a3a;
     border-style: double;
     margin-top: 14px;
+}
+.umik-content {
+    display: flex;
+    flex-direction: row;
+}
+.umik-feeling {
+    display: flex;
+    flex-direction: column;
+    margin-left: -376px;
+    margin-right: -22px;
+    margin-top: 20px;
 }
