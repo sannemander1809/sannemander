@@ -51,3 +51,8 @@
     mix-blend-mode: color;
     filter: opacity(1.5);
 }
+.first-quote-umik {
+    text-transform: uppercase;
+    font-family: 'Spectral SC';
+    text-shadow: 0 0 7px;
+}
