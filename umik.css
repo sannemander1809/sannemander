@@ -96,3 +96,9 @@
     outline-style: solid;
     outline-width: 2px;
 }
+.umik-status {
+    font-family: 'Spectral SC';
+    margin-top: -19px;
+    margin-left: 191px;
+    font-style: italic;
+}
