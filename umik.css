@@ -67,13 +67,13 @@
     color: #ffffff;
     border-radius: 10px;
 }
-.mood-umik {
-    background: #000000;
-    width: fit-content;
-    height: 26;
+.bar-empty-umik {
+    height: 23;
+    background: black;
+    width: 200;
+    margin-left: 464px;
     border-radius: 10px;
-    margin-left: 549px;
     outline-color: var(--defaultdark);
     outline-style: solid;
-    outline-width: 3px;
+    outline-width: 2px;
 }
