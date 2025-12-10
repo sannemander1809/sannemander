@@ -102,3 +102,13 @@
     margin-left: 191px;
     font-style: italic;
 }
+.Umik-status-header {
+    font-size: 12px;
+    letter-spacing: 10px;
+    font-family: 'Oranienbaum';
+    text-transform: uppercase;
+    margin-left: 362px;
+    margin-right: -53px;
+    margin-bottom: 6px;
+    color: var(--default);
+}
