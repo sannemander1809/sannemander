@@ -21,9 +21,12 @@
 }
 .upper-img-block-umik {
     background: #000000;
-    height: 40px;
+    height: 57px;
     margin: -30px;
     margin-bottom: 10px;
+    border-bottom-style: solid;
+    border-bottom-width: 7px;
+    border-bottom-color: var(--defaultdark);
 }
 .upper-umik-img {
     background: url(https://i.pinimg.com/originals/61/45/f3/6145f3202dbdaa74e9aea1b6480c2dc9.gif);
