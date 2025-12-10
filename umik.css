@@ -3,6 +3,7 @@
     height: 23px;
     border-radius: 10px;
     background: linear-gradient(0deg, #272727, #565656);
+    position: absolute;
 }
 
 .neg-umik {
