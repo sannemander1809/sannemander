@@ -1,0 +1,23 @@
+.background-umi {
+    background: #181818;
+    width: 750;
+    outline: solid;
+    outline-color: #191919;
+    outline-width: 3px;
+    border: solid;
+    border-width: 3px;
+    border-color: #3a3a3a;
+    background-size: contain;
+    background-image: url(https://64.media.tumblr.com/6fa9ad9f859cf058bfe19a2536b0aa11/tumblr_pkv647vWBM1xp1j77o1_540.gifv);
+    border-radius: 10px 10px 10px 10px;
+}
+.body-umi {
+    background: #1b1b1b;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    outline: solid;
+    outline-color: var(--defaultdark);
+    outline-width: 2px;
+    filter: drop-shadow(2px 4px 6px black);
+}
