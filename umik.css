@@ -199,8 +199,8 @@
     justify-content: space-between;
 }
 .status-img-umik {
-    height: 43;
-    background: url(https://cdn-icons-png.flaticon.com/128/272/272340.png);
+    height: 43px;
+    background: black;
     width: 43px;
     margin-top: -12px;
     filter: var(--elementcolor);
