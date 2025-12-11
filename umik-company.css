@@ -1,0 +1,19 @@
+.background-umik-company {
+    background: #181818;
+    width: 750;
+    outline: solid;
+    outline-color: #191919;
+    outline-width: 3px;
+    border: solid;
+    border-width: 3px;
+    border-color: #3a3a3a;
+    height: 90;
+}
+.body-umik-company {
+    background: #1b1b1b;
+    padding: 32px;
+    margin: 10px;
+    outline: solid;
+    outline-color: var(--defaultdark);
+    outline-width: 2px;
+}
