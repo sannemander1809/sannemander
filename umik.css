@@ -182,17 +182,30 @@
 }
 .umik-state-field {
     background: #1f1f1f;
-    padding: 15px;
+    padding: 14px;
     border-radius: 5px;
     text-transform: uppercase;
     font-weight: 900;
     font-family: 'Roboto';
     font-size: 11px;
-    width: 150;
-    margin-bottom: 9px;
-    margin-top: -47px;
-    height: 41px;
+    width: 130px;
+    margin-bottom: 6px;
+    margin-top: -50px;
+    height: 47px;
     margin-left: 346px;
     position: relative;
     z-index: 3;
+    display: flex;
+    justify-content: space-between;
+}
+.status-img-umik {
+    height: 42;
+    background: url(https://cdn-icons-png.flaticon.com/128/272/272340.png);
+    width: 43px;
+    margin-top: -13px;
+    filter: var(--elementcolor);
+    opacity: .7;
+    mix-blend-mode: color-dodge;
+    background-size: cover;
+    margin-left: -6px;
 }
