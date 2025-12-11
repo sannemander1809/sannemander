@@ -209,16 +209,15 @@
     --backgroundumik: url(https://cdn-icons-png.flaticon.com/128/5682/5682743.png)  
 }
 body-umik b {
-    font-weight: 700;
-    color: #819e94;
-    font-size: 13px;    
+    font-size: 13px;
+    color: var(--default);   
 }
 body-umik i {
-    font-weight: 700;
-    color: #819e94;
-    font-size: 12px;
+     font-size: 13px;
+    color: var(--default);
     font-style: italic;
 }
+
 .tags-umik {
     display: flex;
     gap: 10px;
