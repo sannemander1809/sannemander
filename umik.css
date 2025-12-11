@@ -191,13 +191,13 @@
     margin-left: -6px;
 }
 .Distrusting-angered {
-    --background: url(https://cdn-icons-png.flaticon.com/128/272/272340.png);
+    --background-img: url(https://cdn-icons-png.flaticon.com/128/272/272340.png);
 .Neutral {
-    --background: url(https://cdn-icons-png.flaticon.com/128/4989/4989647.png);
+    --background-img: url(https://cdn-icons-png.flaticon.com/128/4989/4989647.png);
 .Curious {
-    --background: url(https://cdn-icons-png.flaticon.com/128/471/471664.png);
+    --background-img: url(https://cdn-icons-png.flaticon.com/128/471/471664.png);
 .Joyfull {
-    --background: url(https://cdn-icons-png.flaticon.com/128/3483/3483089.png)
+    --background-img: url(https://cdn-icons-png.flaticon.com/128/3483/3483089.png)
 .Crazed-hallucinating {
-    --background: url(https://images2.imgbox.com/ca/79/kjUsAaDe_o.png)  
+    --background-img: url(https://images2.imgbox.com/ca/79/kjUsAaDe_o.png)  
     
