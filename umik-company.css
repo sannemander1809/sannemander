@@ -17,3 +17,17 @@
     outline-color: var(--defaultdark);
     outline-width: 2px;
 }
+.umik-company-content {
+    display: flex;
+    flex-direction: row;
+    margin: -35px;
+    margin-left: -31px;
+    margin-top: -32px;
+}
+.umik-tile {
+    background: #2f2f2f;
+    height: 64px;
+    width: 241px;
+    border: #3a3a3a;
+    border-style: solid;
+}
