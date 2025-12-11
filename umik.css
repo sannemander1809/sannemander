@@ -43,7 +43,7 @@
     margin-top: -53px;
 }
 .upper-umik-img-overlay {
-    background: linear-gradient(45deg, #21372de8, #272827ad);
+    background: var(--backgroundrgb);
     height: 69px;
     margin: -30px;
     margin-bottom: 10px;
