@@ -129,6 +129,7 @@
     border: #3a3a3a;
     border-style: double;
     margin-top: 14px;
+    width: 550;
 }
 .umik-content {
     display: flex;
@@ -140,4 +141,22 @@
     margin-left: -376px;
     margin-right: -22px;
     margin-top: 20px;
+}
+.umik-side-img {
+    width: 202px;
+    margin-left: 17px;
+    margin-right: -20px;
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0302668f-2f63-4823-bf95-0a16cfe4be6b/dkzprr3-2354aafc-8169-4391-beb0-2ee8e53adb3d.png/v1/fill/w_1217,h_657,q_70,strp/the_forest_nexus_by_eulogy612_dkzprr3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODY0IiwicGF0aCI6Ii9mLzAzMDI2NjhmLTJmNjMtNDgyMy1iZjk1LTBhMTZjZmU0YmU2Yi9ka3pwcnIzLTIzNTRhYWZjLTgxNjktNDM5MS1iZWIwLTJlZThlNTNhZGIzZC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OXFan5YlgYYZXSYxHpkzh3fy-yC2H2IBWokPJ9dEZKE);
+    background-size: cover;
+    background-position-x: -305px;
+    filter: saturate(0.6) contrast(0.6) brightness(0.4);
+    box-shadow: inset 0 0 120px #1b1b1b, inset 0 0 80px #1b1b1b, inset 0 0 40px #191919;
+}
+.umik-sideimg-over\" {
+    width: 202px;
+    margin-left: -158px;
+    margin-right: -20px;
+    background: linear-gradient(0deg, #1b1b1b, #26252500);
+    position: relative;
+    z-index: 2;
 }
