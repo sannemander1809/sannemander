@@ -219,3 +219,20 @@ body-umik i {
     font-size: 12px;
     font-style: italic;
 }
+.tags-umik {
+    display: flex;
+    gap: 10px;
+    margin-bottom: -22px;
+    margin-top: -40px;
+    margin-left: -14px;
+}
+.tag-umik {
+    background: #1f1f1f;
+    font-family: 'Roboto';
+    font-weight: 900;
+    padding: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    width: fit-content;
+}
