@@ -208,4 +208,10 @@
 .sad {
     --backgroundumik: url(https://cdn-icons-png.flaticon.com/128/5682/5682743.png)  
 }
-        
+body-umik b {
+    font-size: 12px;
+    color: var(--default);        
+body-umik i {
+    font-size: 11px;
+    color: var(--default); 
+    font-style: italic;
