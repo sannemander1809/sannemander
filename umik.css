@@ -173,7 +173,6 @@
     margin-bottom: 6px;
     margin-top: -50px;
     height: 47px;
-    margin-left: 346px;
     position: relative;
     z-index: 3;
     display: flex;
@@ -234,4 +233,11 @@
     padding-right: 15px;
     border-radius: 5px;
     width: fit-content;
+}
+.umik-states {
+    display: flex;
+    gap: 10px;
+    margin-left: 299px;
+    margin-bottom: -1px;
+    margin-top: 32px;
 }
