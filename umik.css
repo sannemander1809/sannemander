@@ -181,7 +181,7 @@
 }
 .status-img-umik {
     height: 43px;
-    background: black;
+    background: var(--backgroundumik);
     width: 43px;
     margin-top: -12px;
     filter: var(--elementcolor);
