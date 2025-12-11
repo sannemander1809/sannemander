@@ -43,7 +43,7 @@
     margin-top: -53px;
 }
 .upper-umik-img-overlay {
-    background: var(--backgroundrgb);
+    background: var(--topicbg);
     height: 69px;
     margin: -30px;
     margin-bottom: 10px;
