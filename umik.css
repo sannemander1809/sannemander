@@ -211,9 +211,11 @@
 body-umik b {
     font-weight: 700;
     color: #819e94;
-    font-size: 13px;      
+    font-size: 13px;    
+}
 body-umik i {
     font-weight: 700;
     color: #819e94;
     font-size: 12px;
     font-style: italic;
+}
