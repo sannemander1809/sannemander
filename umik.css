@@ -247,3 +247,13 @@
     margin-bottom: -1px;
     margin-top: 32px;
 }
+.umik-side-img-past {
+    width: 202px;
+    margin-left: 17px;
+    margin-right: -20px;
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0302668f-2f63-4823-bf95-0a16cfe4be6b/dkzprr3-2354aafc-8169-4391-beb0-2ee8e53adb3d.png/v1/fill/w_1217,h_657,q_70,strp/the_forest_nexus_by_eulogy612_dkzprr3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODY0IiwicGF0aCI6Ii9mLzAzMDI2NjhmLTJmNjMtNDgyMy1iZjk1LTBhMTZjZmU0YmU2Yi9ka3pwcnIzLTIzNTRhYWZjLTgxNjktNDM5MS1iZWIwLTJlZThlNTNhZGIzZC5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OXFan5YlgYYZXSYxHpkzh3fy-yC2H2IBWokPJ9dEZKE);
+    background-size: cover;
+    background-position-x: -356px;
+    filter: saturate(0.6) contrast(0.6) brightness(0.4);
+    box-shadow: inset 20px -2px 120px 20px #1d1d1d, inset -20px -1px 80px 11px #1b1b1b, inset 20px -12px 40px 8px #111111;
+}
