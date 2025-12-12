@@ -266,3 +266,20 @@
     position: relative;
     z-index: 2;
 }
+.umik-state-field-past {
+    background: #1f1f1f;
+    padding: 14px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'Roboto';
+    font-size: 11px;
+    margin-bottom: 6px;
+    margin-top: -50px;
+    height: 47px;
+    position: relative;
+    z-index: 3;
+    display: flex;
+    margin-left: 169px;
+    gap: 11px;
+}
