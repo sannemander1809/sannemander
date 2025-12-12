@@ -257,7 +257,7 @@
     filter: saturate(0.6) contrast(0.6) brightness(0.4);
     box-shadow: inset 20px -2px 120px 20px #1d1d1d, inset -20px -1px 80px 11px #1b1b1b, inset 20px -12px 40px 8px #111111;
 }
-.umik-sideimg-over-past" {
+.umik-sideimg-over-past {
     width: 202px;
     margin-left: -158px;
     margin-right: -20px;
