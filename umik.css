@@ -274,12 +274,20 @@
     font-weight: 900;
     font-family: 'Roboto';
     font-size: 11px;
-    margin-bottom: 6px;
-    margin-top: -50px;
+    margin-bottom: -20px;
+    margin-top: -49px;
     height: 47px;
     position: relative;
     z-index: 3;
     display: flex;
-    margin-left: 169px;
+    margin-left: 183px;
     gap: 11px;
+    margin-right: -37px;
+}
+.umik-states-past {
+    display: flex;
+    gap: 10px;
+    margin-left: 310px;
+    margin-bottom: -1px;
+    margin-top: 30px;
 }
