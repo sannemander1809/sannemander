@@ -213,6 +213,9 @@
 .human {
     --backgroundumik: url(https://cdn-icons-png.flaticon.com/128/3439/3439380.png)  
 }
+.pilgrimm {
+    --backgroundumik: url(https://images2.imgbox.com/1c/37/kiZJwjcM_o.png)  
+}
 .body-umik b {
     font-size: 13px;
     color: var(--default);   
@@ -280,13 +283,13 @@
     position: relative;
     z-index: 3;
     display: flex;
-    margin-left: 183px;
-    gap: 11px;
+    margin-left: 6px;
+    gap: 12px;
     margin-right: -37px;
 }
 .umik-states-past {
     display: flex;
-    gap: 10px;
+    gap: 38px;
     margin-left: 310px;
     margin-bottom: -1px;
     margin-top: 30px;
