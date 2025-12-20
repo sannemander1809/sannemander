@@ -43,4 +43,6 @@
     z-index: 4;
     background-size: cover;
     float: right;
+    mix-blend-mode: difference;
+    filter: invert(1);
 }
