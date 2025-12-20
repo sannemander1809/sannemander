@@ -34,3 +34,13 @@
     text-align: right;
     margin-top: 33px;
 }
+body-yara f {
+    display: inline-block;
+    width: 218px;
+    height: 157px;
+    background-image: url(https://i.pinimg.com/1200x/1a/c8/ce/1ac8cefc9e027ee10daa8c5a3f47e34a.jpg);
+    position: relative;
+    z-index: 4;
+    background-size: cover;
+    float: right;
+}
