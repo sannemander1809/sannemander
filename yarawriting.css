@@ -34,7 +34,7 @@
     text-align: right;
     margin-top: 33px;
 }
-body-yara f {
+yara.body f {
     display: inline-block;
     width: 218px;
     height: 157px;
