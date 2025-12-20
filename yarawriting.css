@@ -45,4 +45,5 @@
     float: right;
     mix-blend-mode: difference;
     filter: invert(1);
+    margin-left: 12px;
 }
