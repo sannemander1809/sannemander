@@ -52,8 +52,8 @@
 .text-alethio {
     text-align: justify;
     background: #2f2f2f;
-    margin-right: -5px;
-    margin-left: -14px;
+    margin-right: 7px;
+    margin-left: -12px;
     padding: 23px;
     padding-top: 24px;
     font-weight: 300;
@@ -67,4 +67,26 @@
     border: #3a3a3a;
     border-style: double;
     margin-top: -52px;
+    width: 470px;
+}
+.alethio-side-img-code {
+    background-image: url(https://i78.servimg.com/u/f78/20/60/64/16/fbsfbs10.jpg);
+    position: relative;
+    z-index: 3;
+    width: 185px;
+    height: 450px;
+    background-size: cover;
+    background-position-x: -32px;
+    filter: saturate(0.6) contrast(0.6) brightness(0.4);
+    box-shadow: inset -1px 20px 120px 20px #1b1b1b, inset 20px -1px 80px #1b1b1b, inset -1px -20px 40px #191919;
+    margin-top: 29px;
+}
+.alethio-column {
+    width: 176px;
+    margin-right: -2px;
+    height: 450;
+}
+.content-alethio {
+    display: flex;
+    flex-direction: row;
 }
