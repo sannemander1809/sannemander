@@ -8,26 +8,22 @@
     filter: drop-shadow(2px 4px 6px black);
 }
 .upper-block-alethio {
-    height: 162px;
+    height: 176px;
     background: #212627;
     margin: -30px;
     margin-bottom: 8px;
-    border-bottom: #404445;
-    border-bottom-style: solid;
-    border-bottom-width: 8px;
-    border-bottom-color: #212627;
 }
 .upper-img-alethio {
-    height: 154;
+    height: 176px;
     background-image: url(https://i.pinimg.com/736x/f6/4b/07/f64b0747522e9979d300f0870e92d696.jpg);
     background-size: cover;
     background-position-y: -190px;
     filter: saturate() contrast(0.6) brightness(0.45);
     box-shadow: inset 0 0 5px #000000;
-    margin-top: -154px;
+    margin-top: -176px;
 }
 .upper-img-alethio-overlayer {
-    height: 154;
+    height: 176;
     background: var(--topicbg);
     position: relative;
     z-index: 2;
