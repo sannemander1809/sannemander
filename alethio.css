@@ -114,10 +114,8 @@
 
 /* show correct content */
 #al-tab1:checked ~ .tab-one,
-margin-top: 68px;
 #al-tab2:checked ~ .tab-two {
   display: block;
-margin-top: 68px;
 }
 
 /* active tab styling */
