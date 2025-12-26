@@ -21,28 +21,24 @@
     filter: drop-shadow(2px 4px 6px black);
 }
 .upper-block-alethio {
-    height: 220px;
-    background: #212627;
+    height: 167px;
+    background: #404445;
     margin: -30px;
     margin-bottom: 8px;
-}
-.upper-img-grad {
-    box-shadow: inset 0px -20px 120px 20px #1b1b1b, inset 0px -20px 80px 20px #1b1b1b, inset 0px -20px 40px 20px #191919;
-    height: 220;
-    margin-top: -219px;
-    position: relative;
-    z-index: 3;
+    border-bottom: #2c2c2c;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
 }
 .upper-img-alethio {
-    height: 220;
-    background-image: url(https://interactivepasts.com/wp-content/uploads/2021/01/vlhall-scaled.jpg);
+    height: 150px;
+    background-image: url(https://i.pinimg.com/originals/42/3f/7a/423f7a8d1fc4781086a6433b8f93b436.gif);
     background-size: cover;
     filter: saturate(0.4) contrast(0.7) brightness(0.45);
-    margin-top: -220px;
+    margin-top: -150px;
     background-position: center;
 }
 .upper-img-alethio-overlayer {
-    height: 220;
+    height: 150px;
     background: var(--topicbg);
     position: relative;
     z-index: 3;
@@ -65,7 +61,7 @@
     z-index: 4;
     border: #3a3a3a;
     border-style: double;
-    margin-top: -52px;
+    margin-top: 42px;
     width: 486px;
 }
 .alethio-side-img-code {
