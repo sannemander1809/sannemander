@@ -113,6 +113,6 @@
   border: 1px solid #aaa;
 }
 
-.alethio-toggle-box input:checked ~ .toggle-content {
+.alethio-toggle-box input:checked ~ .alethio-toggle-content {
   display: block;
 }
