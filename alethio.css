@@ -2,21 +2,20 @@
     background: #181818;
     width: 750;
     outline: solid;
-    outline-color: #191919;
+    outline-color: #374042;
     outline-width: 3px;
     border: solid;
     border-width: 3px;
     border-color: #3a3a3a;
     background-size: contain;
-    background-image: url(https://64.media.tumblr.com/6fa9ad9f859cf058bfe19a2536b0aa11/tumblr_pkv647vWBM1xp1j77o1_540.gifv);
-    filter: drop-shadow(2px 4px 6px black);
+    background-image: url(https://i78.servimg.com/u/f78/20/60/64/16/bliep11.png);
 }
 .body-alethio {
-    background: #1b1b1b;
+ background: #1b1b1b;
     padding: 30px;
-    margin: 20px;
+    margin: 37px;
     outline: solid;
-    outline-color: #404445;
+    outline-color: #2c2c2c;
     outline-width: 2px;
     filter: drop-shadow(2px 4px 6px black);
 }
