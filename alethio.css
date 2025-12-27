@@ -51,14 +51,14 @@
     filter: opacity(0.5);
 }
 .header-alethio {
-    height: 155px;
+    height: 152px;
     margin: -30px;
-    margin-bottom: 24px;
+    margin-bottom: 29px;
     border-bottom: #414141;
     border-bottom-style: solid;
     position: relative;
     z-index: 2;
-    border-bottom-width: 5px;
+    border-bottom-width: 3px;
 }
 .content-alethio {
     display: flex;
