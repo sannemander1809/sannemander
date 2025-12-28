@@ -54,6 +54,8 @@
     border-bottom-color: rgba(30, 30, 30, 0.79);
     border-bottom-style: solid;
     border-bottom-width: 5px;
+    background: rgb(44, 44, 44);
+    margin: -56px -30px 29px;
 }
 .content-alethio {
     display: flex;
