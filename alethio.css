@@ -155,15 +155,15 @@
 }
 .constelation-alethio {
     height: 495px;
-    width: 395;
+    width: 320px;
     background: url(https://i.pinimg.com/736x/d7/0f/96/d70f965d6df8a4c4930fbdbc01ed7f0d.jpg);
     background-size: cover;
     mix-blend-mode: exclusion;
     opacity: 0.08;
     background-repeat: no-repeat;
     filter: sepia(1);
-    margin-top: -324px;
-    margin-left: -96px;
+    margin-top: -236px;
+    margin-left: -76px;
     transform: scaleX(-1);
-    margin-bottom: -32px;
+    margin-bottom: -120px;
 }
