@@ -98,9 +98,9 @@
     z-index: 2;
     display: flex;
     justify-content: center;
-    border-bottom-color: #1e1e1ec9;
+    border-bottom-color: #43392e;
     border-bottom-style: solid;
-    border-bottom-width: 5px;
+    border-bottom-width: 3px;
 }
 .alethio-circle {
     height: 100px;
@@ -109,10 +109,12 @@
     border-radius: 100%;
     margin-top: -31px;
     outline-style: solid;
-    outline-color: #191919;
-    outline-width: 5px;
+    outline-color: #e3a65b;
+    outline-width: 3px;
     background-size: cover;
     filter: saturate(1.065) contrast(0.6) brightness(0.4);
+    border-style: solid;
+    border-color: #000000;
 }
 .alethio-circle-img {
     background: url(https://cdn-icons-png.flaticon.com/128/7951/7951824.png);
