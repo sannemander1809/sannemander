@@ -105,12 +105,14 @@
 .alethio-circle {
     height: 100px;
     width: 100px;
-    background: #2c2c2c;
+    background: url(https://i.pinimg.com/originals/19/32/bd/1932bd633c58e90543b3c11c5fe1181e.gif);
     border-radius: 100%;
     margin-top: -31px;
     outline-style: solid;
-    outline-color: #374042;
+    outline-color: #191919;
     outline-width: 5px;
+    background-size: cover;
+    filter: saturate(1.065) contrast(0.6) brightness(0.4);
 }
 .alethio-circle-img {
     background: url(https://cdn-icons-png.flaticon.com/128/7951/7951824.png);
@@ -120,9 +122,9 @@
     width: 100px;
     background-size: cover;
     position: absolute;
-    filter: var(--elementcolor);
-    mix-blend-mode: color-dodge;
+    filter: invert(64%) sepia(80%) saturate(234%) hue-rotate(354deg) brightness(99%) contrast(98%);
     opacity: .7;
+    z-index: 4;
 }
 .big-quote-alethio {
     position: relative;
