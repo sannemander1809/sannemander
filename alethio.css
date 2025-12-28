@@ -183,3 +183,8 @@
     background-position-y: -82px;
     filter: saturate(0.5) contrast(0.8) brightness(0.9);
 }
+.body-alethio b {
+    color: #b8884f;
+    font-size: 13;
+    font-style: italic;
+}
