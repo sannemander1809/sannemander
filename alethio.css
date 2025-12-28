@@ -208,7 +208,22 @@
     display: flex;
     gap: 15px;
     margin-bottom: -28px;
+}
+.alethio-lower-quote {
+    margin-top: 6px;
+    margin-bottom: 84px;
+    background: #181818;
+    padding: 9px;
+    font-size: 10;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #2c2c2c;
+}
+.footer-alethio {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -105px;
     position: absolute;
-    margin-top: -90px;
-    margin-left: 172px;
+    margin-top: -106px;
+    margin-left: 156px;
 }
