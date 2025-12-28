@@ -159,7 +159,7 @@
     mix-blend-mode: exclusion;
     opacity: 0.08;
     background-repeat: no-repeat;
-    filter: sepia(1);
+    filter: sepia(4);
     margin-top: -236px;
     margin-left: -76px;
     transform: scaleX(-1);
