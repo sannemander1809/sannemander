@@ -41,15 +41,19 @@
     mix-blend-mode: color;
     filter: opacity(0.5);
 }
-.header-alethio {
-    height: 152px;
+.alethio-divider {
+    height: 41px;
+    background: #2c2c2c;
     margin: -30px;
     margin-bottom: 29px;
-    border-bottom: #414141;
-    border-bottom-style: solid;
+    margin-top: -56px;
     position: relative;
     z-index: 2;
-    border-bottom-width: 3px;
+    display: flex;
+    justify-content: center;
+    border-bottom-color: rgba(30, 30, 30, 0.79);
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
 }
 .content-alethio {
     display: flex;
