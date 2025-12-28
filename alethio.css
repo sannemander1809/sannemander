@@ -132,3 +132,15 @@
     mix-blend-mode: color-dodge;
     opacity: .7;
 }
+.big-quote-alethio {
+    position: relative;
+    z-index: 4;
+    margin-top: -129px;
+    display: flex;
+    justify-content: space-evenly;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Spectral SC';
+    font-size: 20px;
+    text-shadow: 0 0 9px #ffffff;
+}
