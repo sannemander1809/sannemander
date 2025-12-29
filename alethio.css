@@ -98,9 +98,9 @@
 }
 .alethio-column {
     width: 242px;
-    border-left: #1e1e1e;
+    border-left: #181818;
     border-left-style: solid;
-    border-left-width: 2px;
+    border-left-width: 5px;
     position: relative;
     background: #151515;
     margin-bottom: -168px;
