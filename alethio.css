@@ -1,10 +1,10 @@
 .fire {
- --alethioutlinedif: #463132
- --alethiotag: #ab7676
+ --alethioutlinedif: #463132;
+ --alethiotag: #ab7676;
  --alethiooverlay: linear-gradient(45deg, #3b1b1be8, #282727ad);
  --alethiobackimg: sepia(0);
 --circleimgfilter: saturate(0.5) contrast(0.8) brightness(0.9);
---circlecol: #803d39
+--circlecol: #803d39;
 --circlefilter: contrast(0.9) brightness(0.7);
 }
 .nwater {
