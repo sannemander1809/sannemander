@@ -169,18 +169,18 @@
     font-style: italic;
 }
 .constelation-alethio {
-    height: 495px;
-    width: 320px;
-    background: url(https://i.pinimg.com/736x/d7/0f/96/d70f965d6df8a4c4930fbdbc01ed7f0d.jpg);
+    height: 200;
+    width: 200;
+    background: url(https://i98.servimg.com/u/f98/20/60/58/13/fbfsdb10.png);
     background-size: cover;
     mix-blend-mode: exclusion;
     opacity: 0.08;
     background-repeat: no-repeat;
     filter: var(--alethiobackimg);
-    margin-top: -236px;
-    margin-left: -76px;
     transform: scaleX(-1);
-    margin-bottom: -120px;
+    margin-bottom: -27px;
+    margin-top: -34px;
+    margin-left: -29px;
 }
 .lowest-img-alethio {
     background: aquamarine;
