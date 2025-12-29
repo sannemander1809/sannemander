@@ -126,18 +126,17 @@
     background-size: cover;
     border-style: solid;
     border-color: #000000;
-    filter: contrast(0.9) brightness(0.7);
 }
 .alethio-circle-img {
-    background: url(https://cdn-icons-png.flaticon.com/128/7951/7951824.png);
+    background: url(https://i.pinimg.com/originals/19/32/bd/1932bd633c58e90543b3c11c5fe1181e.gif);
     border-radius: 100%;
     margin-top: -31px;
     height: 100px;
     width: 100px;
     background-size: cover;
     position: absolute;
-    filter: var(--circleimgfilter);
     z-index: 4;
+    filter: saturate(0.8) contrast(0.9) brightness(0.4);
 }
 .big-quote-alethio {
     position: relative;
