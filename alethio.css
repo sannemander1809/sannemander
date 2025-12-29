@@ -231,11 +231,13 @@
     /* margin-top: 6px; */
     margin-bottom: 84px;
     background: #181818;
-    padding: 9px;
-    font-size: 10;
+    padding: 7px;
+    font-size: 8px;
     border-radius: 5px;
     border-style: solid;
     border-color: #2c2c2c;
+    font-family: 'Spectral SC';
+    text-align: justify;
 }
 .footer-alethio {
     display: flex;
