@@ -103,10 +103,9 @@
     border-radius: 100%;
     margin-top: -31px;
     outline-style: solid;
-    outline-color: #e3a65b;
-    outline-width: 3px;
+    outline-color: #2c2c2c;
+    outline-width: 5px;
     background-size: cover;
-    filter: saturate(1.065) contrast(0.6) brightness(0.4);
     border-style: solid;
     border-color: #000000;
 }
@@ -118,8 +117,9 @@
     width: 100px;
     background-size: cover;
     position: absolute;
-    filter: invert(64%) sepia(80%) saturate(234%) hue-rotate(354deg) brightness(99%) contrast(98%) drop-shadow(2px -1px 2px #000);
-    opacity: .7;
+    filter: invert(64%) sepia(100%) saturate(234%) hue-rotate(
+354deg) brightness(100%) contrast(98%) drop-shadow(3px 3px 3px #000);
+    opacity: revert-layer;
     z-index: 4;
 }
 .big-quote-alethio {
