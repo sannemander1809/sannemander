@@ -103,11 +103,12 @@
     border-radius: 100%;
     margin-top: -31px;
     outline-style: solid;
-    outline-color: #2c2c2c;
+    outline-color: #374042;
     outline-width: 5px;
     background-size: cover;
     border-style: solid;
     border-color: #000000;
+    filter: saturate(0.9) contrast(0.9) brightness(0.7);
 }
 .alethio-circle-img {
     background: url(https://cdn-icons-png.flaticon.com/128/7951/7951824.png);
