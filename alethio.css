@@ -1,3 +1,21 @@
+.fire {
+ --alethioutlinedif: #463132
+ --alethiotag: #ab7676
+ --alethiooverlay: linear-gradient(45deg, #3b1b1be8, #282727ad);
+ --alethiobackimg: sepia(0);
+--circleimgfilter: saturate(0.5) contrast(0.8) brightness(0.9);
+--circlecol: #803d39
+--circlefilter: contrast(0.9) brightness(0.7);
+.nwater {
+ --alethioutlinedif: #374042;
+ --alethiotag: #bcd1d7;
+ --alethiooverlay: linear-gradient(45deg, #1c313b, #282727);
+ --alethiobackimg: sepia(4);
+--circleimgfilter:  invert(64%) sepia(100%) saturate(234%) hue-rotate(354deg) brightness(80%) contrast(98%) drop-shadow(3px 3px 3px #000);
+--circlecol: #374042;
+--circlefilter: contrast(0.9) brightness(0.7);
+
+
 .background-alethio {
     background: #181818;
     width: 750;
@@ -15,7 +33,7 @@
     padding: 30px;
     margin: 37px;
     outline: solid;
-    outline-color: #374042;
+    outline-color: var(--alethioutlinedif);
     outline-width: 3px;
     filter: drop-shadow(2px 4px 6px black);
     position: relative;
@@ -34,7 +52,7 @@
 }
 .header-overlay-alethio {
     height: 150px;
-    background: linear-gradient(45deg, #1c313b, #282727);
+    background: var(--alethiooverlay);
     margin-bottom: -150px;
     position: relative;
     z-index: 2;
@@ -54,7 +72,7 @@
     border-bottom-color: rgb(44 44 44);
     border-bottom-style: solid;
     border-bottom-width: 5px;
-    background: rgb(55 64 66);
+    background: var(--alethioutlinedif);
     margin: -56px -30px 29px;
     width: 670.5px;
     margin-left: -34px;
@@ -75,7 +93,7 @@
     padding-right: 6px;
     border-bottom-style: solid;
     margin-left: 13px;
-    border-bottom-color: #374042;
+    border-bottom-color: var(--alethioutlinedif);
 }
 .alethio-column {
     width: 242px;
@@ -103,7 +121,7 @@
     border-radius: 100%;
     margin-top: -31px;
     outline-style: solid;
-    outline-color: #374042;
+    outline-color: var(--circlecol);
     outline-width: 5px;
     background-size: cover;
     border-style: solid;
@@ -118,8 +136,7 @@
     width: 100px;
     background-size: cover;
     position: absolute;
-    filter: invert(64%) sepia(100%) saturate(234%) hue-rotate(
-354deg) brightness(80%) contrast(98%) drop-shadow(3px 3px 3px #000);
+    filter: var(--circleimgfilter);
     z-index: 4;
 }
 .big-quote-alethio {
@@ -159,7 +176,7 @@
     mix-blend-mode: exclusion;
     opacity: 0.08;
     background-repeat: no-repeat;
-    filter: sepia(4);
+    filter: var(--alethiobackimg);
     margin-top: -236px;
     margin-left: -76px;
     transform: scaleX(-1);
@@ -200,7 +217,7 @@
     border-radius: 5px;
     font-family: 'Radio Canada Big';
     text-transform: uppercase;
-    color: #bcd1d7;
+    color: var(--alethiotag);
     border-style: solid;
     border-width: 1px;
     border-color: #414141;
