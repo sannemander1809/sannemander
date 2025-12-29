@@ -48,8 +48,8 @@
     height: 150px;
     background-image: url(https://cdna.artstation.com/p/assets/images/images/031/324/702/large/simon-tremblay-gauthier-ack-stg-northumbria-07.jpg?1603288270);
     background-size: cover;
-    background-position-y: -67px;
     filter: contrast(0.6) brightness(0.45);
+    background-position: center;
 }
 .header-overlay-alethio {
     height: 150px;
