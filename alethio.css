@@ -248,3 +248,9 @@
     margin-left: 156px;
     gap: 34px;
 }
+.alethio-side-img-gradient {
+    background: linear-gradient(356deg, #151515, #26252500);
+    height: 450;
+    margin-top: -450px;
+    position: relative;
+}
