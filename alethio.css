@@ -212,7 +212,7 @@
     margin-bottom: -28px;
 }
 .alethio-lower-quote {
-    margin-top: 6px;
+    /* margin-top: 6px; */
     margin-bottom: 84px;
     background: #181818;
     padding: 9px;
@@ -228,4 +228,5 @@
     position: absolute;
     margin-top: -106px;
     margin-left: 156px;
+    gap: 34px;
 }
