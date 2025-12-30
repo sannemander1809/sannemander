@@ -95,6 +95,7 @@
     border-bottom-style: solid;
     margin-left: 13px;
     border-bottom-color: var(--alethioutlinedif);
+    text-align: justify;
 }
 .alethio-column {
     width: 242px;
