@@ -137,7 +137,7 @@
     background-size: cover;
     position: absolute;
     z-index: 4;
-    filter: saturate(0.8) contrast(0.9) brightness(0.4);
+    filter: saturate(0.3) contrast(0.9) brightness(0.4);
 }
 .big-quote-alethio {
     position: relative;
