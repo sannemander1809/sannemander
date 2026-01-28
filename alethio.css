@@ -22,7 +22,7 @@
  --alethiooverlay: linear-gradient(45deg, #1d2d3de8, #282727ad);
  --alethiobackimg: sepia(0);
 --circleimgfilter: saturate(0.5) contrast(0.8) brightness(0.9);
---circlecol: #373d46
+--circlecol: #373d46;
 --circlefilter: contrast(0.9) brightness(0.7);
 }
 .background-alethio {
