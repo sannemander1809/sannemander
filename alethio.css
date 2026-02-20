@@ -263,3 +263,12 @@
     margin-top: -450px;
     position: relative;
 }
+.big-quote-alethio-reiko {
+    position: relative;
+    z-index: 4;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Spectral SC';
+    font-size: 25px;
+} 
+
