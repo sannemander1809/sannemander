@@ -289,3 +289,12 @@
     margin-left: -238px;
     mix-blend-mode: overlay;
 }
+.header-overlay-alethio-reiko {
+    height: 150px;
+    background: #463132;
+    margin-bottom: -150px;
+    position: relative;
+    z-index: 2;
+    mix-blend-mode: color;
+    filter: opacity(0.);
+}
