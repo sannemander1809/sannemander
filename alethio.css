@@ -17,12 +17,12 @@
 --circlefilter: contrast(0.9) brightness(0.7);
 }
 .earth {
- --alethioutlinedif: #393f38
- --alethiotag: #8aa488
+ --alethioutlinedif: #393f38;
+ --alethiotag: #8aa488;
  --alethiooverlay: linear-gradient(45deg, #1a291ae8, #272827ad);
  --alethiobackimg: sepia(0);
 --circleimgfilter: saturate(0.5) contrast(0.8) brightness(0.9);
---circlecol: #393f38
+--circlecol: #393f38;
 --circlefilter: contrast(0.9) brightness(0.7);
 }
 .swater {
