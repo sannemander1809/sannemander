@@ -319,7 +319,7 @@
     background-position: center;
     background-size: cover;
     mix-blend-mode: exclusion;
-    opacity: 0.08;
+    opacity: 0.8;
 }
 .footer-alethio-yara {
     display: flex;
