@@ -100,12 +100,13 @@
     flex-direction: row;
     margin: -29px;
     gap: 17px;
+    margin-left: -17px;
 }
 .text-alethio {
     width: 420;
     padding-left: 15px;
     padding-bottom: 15px;
-    margin-top: 51px;
+    margin-top: 67px;
     font-family: "Noto Serif", serif;
     font-size: 12px;
     padding-right: 15px;
