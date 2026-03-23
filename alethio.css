@@ -104,15 +104,19 @@
 .text-alethio {
     width: 420;
     padding-left: 15px;
-    padding-bottom: 18px;
-    margin-top: 70px;
+    padding-bottom: 15px;
+    margin-top: 51px;
     font-family: "Noto Serif", serif;
     font-size: 12px;
-    padding-right: 2px;
+    padding-right: 15px;
     border-bottom-style: solid;
     margin-left: 2px;
     border-bottom-color: var(--alethioutlinedif);
     text-align: justify;
+    background: #2b2b2b;
+    padding-top: 15px;
+    border-top-style: solid;
+    border-top-color: var(--alethioutlinedif);
 }
 .alethio-column {
     width: 242px;
