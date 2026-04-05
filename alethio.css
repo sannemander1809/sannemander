@@ -344,3 +344,19 @@
     margin-left: 64px;
     gap: 34px;
 }
+.alethio-pan {
+    transform: scaleX(1);
+    background-position: center;
+    background-size: cover;
+    mix-blend-mode: exclusion;
+    opacity: 0.8;
+    height: 117px;
+    width: 150px;
+    background: url(https://i78.servimg.com/u/f78/20/60/64/16/yara_p10.png);
+    filter: invert(1) saturate(390%) hue-rotate(159deg);
+    margin-top: -201px;
+    background-size: cover;
+    margin-bottom: 46px;
+    position: relative;
+    z-index: 4;
+}
