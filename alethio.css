@@ -128,12 +128,11 @@
     padding-top: 15px;
     border-top-style: solid;
     border-top-color: var(--alethioutlinedif);
+    position: relative;
+    z-index: 2;
 }
 .alethio-column {
     width: 242px;
-    border-left: #181818;
-    border-left-style: solid;
-    border-left-width: 5px;
     position: relative;
     background: #151515;
     margin-bottom: -168px;
@@ -145,7 +144,6 @@
     background-image: url(https://i78.servimg.com/u/f78/20/60/64/16/yara_e10.png);
     background-size: cover;
     filter: saturate(0.6) contrast(0.6) brightness(0.4);
-    box-shadow: inset 0 0 17px 8px #000000;
 }
 .alethio-circle {
     height: 100px;
