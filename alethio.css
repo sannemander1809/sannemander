@@ -361,3 +361,16 @@
     position: relative;
     z-index: 4;
 }
+.reiko-top-img {
+    mix-blend-mode: exclusion;
+    height: 200px;
+    width: 332px;
+    background: url(https://i.pinimg.com/1200x/c3/54/a0/c354a0ca4ce787af5674d34c67b1de74.jpg);
+    background-size: cover;
+    background-position-x: -24px;
+    filter: invert(1);
+    opacity: 0.16;
+    margin-left: -329px;
+    margin-top: -78px;
+    margin-bottom: -150px;
+}
