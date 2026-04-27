@@ -290,28 +290,30 @@
 .big-quote-alethio-reiko {
     position: relative;
     z-index: 4;
-    color: #ffffff;
-    text-transform: uppercase;
+    color: #aa7675;
     font-size: 14px;
-    font-family: "Jersey 10", sans-serif;
-    font-weight: 200;
+    margin-left: 348px;
+    font-family: 'Oranienbaum';
+    text-transform: uppercase;
+    line-height: 100%;
+    font-weight: 100;
     font-style: normal;
-    letter-spacing: 3px;
-    margin-left: -237px;
+    letter-spacing: 2px;
 }
 .small-quote-alethio-reiko {
     position: relative;
-    margin-top: -9px;
+    margin-top: -5px;
     padding: 7px;
     border-radius: 5px;
     font-size: 13px;
     color: #ffffff;
-    font-family: "Jersey 10", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    letter-spacing: 2px;
-    margin-left: -238px;
-    mix-blend-mode: overlay;
+    margin-left: 349px;
+    font-family: 'Oranienbaum';
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 9px;
+    letter-spacing: 5px;
+    font-style: italic;
 }
 .header-overlay-alethio-reiko {
     height: 150px;
