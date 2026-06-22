@@ -1,0 +1,13 @@
+.background-dust {
+    background: #181818;
+    width: 750;
+    outline: solid;
+    outline-color: #191919;
+    outline-width: 3px;
+    border: solid;
+    border-width: 3px;
+    border-color: #3a3a3a;
+    background-size: contain;
+    background-image: url(https://i.pinimg.com/1200x/5f/06/e3/5f06e37d919bf3eda947e19d463a48a0.jpg);
+}
+                          
