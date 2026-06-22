@@ -10,4 +10,17 @@
     background-size: contain;
     background-image: url(https://i.pinimg.com/1200x/5f/06/e3/5f06e37d919bf3eda947e19d463a48a0.jpg);
 }
-                          
+.body-dust {
+    background: #252525;
+    padding: 30px;
+    margin: 37px;
+    outline: solid;
+    outline-color: var(--alethioutlinedif);
+    outline-width: 3px;
+    filter: drop-shadow(2px 4px 6px black);
+    position: relative;
+    z-index: 2;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #2c2c2c;
+}                          
