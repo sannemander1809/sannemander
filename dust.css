@@ -5,7 +5,7 @@
     outline-color: #191919;
     outline-width: 3px;
     border: solid;
-    border-width: 3px;
+    border-width: 1px;
     border-color: #3a3a3a;
     background-size: cover;
     background-image: url(https://i.pinimg.com/1200x/5f/06/e3/5f06e37d919bf3eda947e19d463a48a0.jpg);
@@ -29,7 +29,20 @@
 .dust-banner-overlay {
     background: var(--footerbg);
     height: 160;
+    display: flex;
+    align-items: center;
 }
+.dust-circle {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    background: black;
+    outline-style: solid;
+    outline-width: 2px;
+    outline-color: #393f38;
+    margin-left: 55px;
+}
+
 .dust-devider {
     background: #393f38;
     height: 61px;
