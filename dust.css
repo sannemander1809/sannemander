@@ -54,3 +54,33 @@
     margin: -22px;
     margin-top: 30px;
 }
+.dust-lower-bar {
+    background: #2c2c2c;
+    margin: -30px;
+    margin-top: 30px;
+    display: flex;
+    height: 30px;
+}
+.dust-tags {
+    display: flex;
+    flex-direction: row;
+    gap: 9px;
+    align-items: center;
+    flex-grow: 2;
+    justify-content: flex-end;
+    margin-right: 9px;
+}
+.dust-tag {
+    border-color: transparent;
+    background: #3a3a3a;
+    text-transform: uppercase;
+    font-family: 'Radio Canada Big';
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--default);
+    border: 1px solid #414141;
+    font-size: 10;
+}
