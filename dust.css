@@ -52,10 +52,12 @@
 }
 .dust-devider {
     background: #393f38;
-    height: 61px;
+    height: 79px;
     margin: -30px;
     margin-top: 30px;
     margin-bottom: -19px;
+    display: flex;
+    align-content: center;
 }
 .dust-text {
     padding-left: 15px;
