@@ -20,9 +20,6 @@
     filter: drop-shadow(2px 4px 6px black);
     position: relative;
     z-index: 2;
-    border-style: solid;
-    border-width: 4px;
-    border-color: #2c2c2c;
 }
 .dust-header {
     background: #161616;
@@ -65,6 +62,7 @@
     display: flex;
     flex-direction: row;
     gap: 9px;
+    align-items: center;
     flex-grow: 2;
     justify-content: flex-end;
     margin-right: 9px;
