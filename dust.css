@@ -42,7 +42,14 @@
     outline-color: #393f38;
     margin-left: 55px;
 }
-
+.dust-circle-img {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    background: url(https://images2.imgbox.com/24/e2/UoW2uYOF_o.png);
+    background-size: cover;
+    filter: saturate(0.3) contrast(0.9) brightness(0.7);
+}
 .dust-devider {
     background: #393f38;
     height: 61px;
