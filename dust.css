@@ -25,18 +25,32 @@
     border-color: #2c2c2c;
 }
 .dust-header {
-    background: black;
+    background: #161616;
     height: 160;
-    margin: -30px;
+    margin: -33px;
 }
 .dust-banner-overlay {
     background: var(--footerbg);
     height: 160;
 }
 .dust-devider {
-    background: #1e1e1e;
+    background: #2c2c2c;
     height: 61px;
     margin: -30px;
     margin-top: 30px;
     margin-bottom: -19px;
+}
+.dust-text {
+    padding-left: 15px;
+    padding-bottom: 15px;
+    font-family: "Noto Serif", serif;
+    font-size: 10.5px;
+    padding-right: 15px;
+    text-align: justify;
+    background: #2b2b2b;
+    padding-top: 15px;
+    position: relative;
+    z-index: 2;
+    margin: -22px;
+    margin-top: 30px;
 }
