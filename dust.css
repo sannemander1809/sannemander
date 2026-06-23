@@ -94,6 +94,11 @@
     margin: -22px;
     margin-top: 30px;
 }
+.body-dust b {
+    color: var(--default);
+    font-size: 11;
+    font-style: italic;
+}
 .dust-lower-bar {
     background: #2c2c2c;
     margin: -30px;
