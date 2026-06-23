@@ -1,19 +1,19 @@
 .background-dust {
     background: #181818;
-    width: 750;
+    width: 600;
     outline: solid;
     outline-color: #191919;
     outline-width: 3px;
     border: solid;
     border-width: 3px;
     border-color: #3a3a3a;
-    background-size: contain;
+    background-size: cover;
     background-image: url(https://i.pinimg.com/1200x/5f/06/e3/5f06e37d919bf3eda947e19d463a48a0.jpg);
 }
 .body-dust {
     background: #252525;
     padding: 30px;
-    margin: 37px;
+    margin: 14px;
     outline: solid;
     outline-color: var(--alethioutlinedif);
     outline-width: 3px;
@@ -23,4 +23,20 @@
     border-style: solid;
     border-width: 4px;
     border-color: #2c2c2c;
-}                          
+}
+.dust-header {
+    background: black;
+    height: 160;
+    margin: -30px;
+}
+.dust-banner-overlay {
+    background: var(--footerbg);
+    height: 160;
+}
+.dust-devider {
+    background: #1e1e1e;
+    height: 61px;
+    margin: -30px;
+    margin-top: 30px;
+    margin-bottom: -19px;
+}
