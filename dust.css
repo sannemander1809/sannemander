@@ -57,7 +57,17 @@
     margin-top: 30px;
     margin-bottom: -19px;
     display: flex;
-    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.dust-quote-big {
+    font-family: 'Spectral SC';
+    font-size: 15;
+    text-transform: uppercase;
+}
+.dust-quote-small {
+    font-family: 'Spectral SC';
+    font-size: 11;
 }
 .dust-text {
     padding-left: 15px;
