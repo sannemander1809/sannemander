@@ -71,6 +71,10 @@
     flex-direction: column;
     justify-content: center;
 }
+.Dust-quotes {
+    position: absolute;
+    margin-left: 229px;
+}
 .dust-quote-big {
     font-family: 'Spectral SC';
     font-size: 15;
