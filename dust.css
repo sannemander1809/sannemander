@@ -2,7 +2,7 @@
     background: #181818;
     width: 600;
     outline: solid;
-    outline-color: #191919;
+    outline-color: #2d2d2d;
     outline-width: 3px;
     border: solid;
     border-width: 1px;
@@ -11,12 +11,9 @@
     background-image: url(https://i.pinimg.com/1200x/5f/06/e3/5f06e37d919bf3eda947e19d463a48a0.jpg);
 }
 .body-dust {
-    background: #252525;
+    background: #1c1c1c;
     padding: 30px;
     margin: 14px;
-    outline: solid;
-    outline-color: #463132;
-    outline-width: 3px;
     filter: drop-shadow(2px 4px 6px black);
     position: relative;
     z-index: 2;
@@ -38,7 +35,7 @@
     border-radius: 100%;
     background: black;
     outline-style: solid;
-    outline-width: 2px;
+    outline-width: 4px;
     outline-color: #463132;
     margin-left: 55px;
 }
@@ -51,19 +48,20 @@
     filter: saturate(0.3) contrast(0.9) brightness(0.7);
 }
 .dust-symbol {
-    background: url(https://i.pinimg.com/736x/c6/de/d6/c6ded6c746103bbe200baa07a013b024.jpg);
-    height: 150;
-    width: 397px;
+    background: url(https://images2.imgbox.com/f6/f0/odHPkUig_o.jpg);
+    height: 160px;
+    width: 364px;
     background-size: cover;
-    background-position-y: -173px;
-    background-position-x: 34px;
+    background-position-y: -184px;
+    background-position-x: 12px;
     filter: invert(1) saturate(390%) hue-rotate(159deg);
     mix-blend-mode: screen;
     opacity: 0.1;
+    margin-left: 40px;
 }
 .dust-devider {
-    background: #393f38;
-    height: 79px;
+    background: #212121;
+    height: 44px;
     margin: -30px;
     margin-top: 30px;
     margin-bottom: -19px;
@@ -83,6 +81,7 @@
 .dust-quote-small {
     font-family: 'Spectral SC';
     font-size: 11;
+    color: #a97474;
 }
 .dust-text {
     padding-left: 12px;
