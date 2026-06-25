@@ -128,6 +128,7 @@
     margin-top: 30px;
     display: flex;
     height: 42px;
+    align-items: center;
 }
 .dust-tags {
     display: flex;
@@ -153,4 +154,11 @@
     font-size: 10;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+.lower-quote {
+    font-family: 'Spectral SC';
+    font-size: 10px;
+    color: #a97474;
+    font-style: italic;
+    margin-left: 9px;
 }
