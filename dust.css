@@ -162,3 +162,20 @@
     font-style: italic;
     margin-left: 9px;
 }
+.dust-text-letter {
+    padding-left: 12px;
+    padding-bottom: 15px;
+    font-family: "Noto Serif", serif;
+    font-size: 10.5px;
+    padding-right: 15px;
+    text-align: justify;
+    background: #272525;
+    padding-top: 15px;
+    position: relative;
+    z-index: 2;
+    margin: -7px;
+    margin-top: 43px;
+    outline-style: solid;
+    outline-color: #212121;
+    outline-width: 3px;
+}
