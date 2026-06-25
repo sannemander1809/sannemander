@@ -62,14 +62,16 @@
     opacity: 0.1;
 }
 .dust-devider {
-    background: #393f38;
-    height: 79px;
+    background: #443938;
+    height: 78px;
     margin: -30px;
-    margin-top: 30px;
-    margin-bottom: -19px;
+    width: 81px;
+    margin-top: -7px;
+    margin-bottom: -82px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    border-radius: 100% 100% 0% 0%;
 }
 .Dust-quotes {
     position: absolute;
