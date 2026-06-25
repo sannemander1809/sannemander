@@ -165,11 +165,9 @@
 .dust-text-letter {
     padding-left: 12px;
     padding-bottom: 15px;
-    font-family: "Noto Serif", serif;
-    font-size: 10.5px;
     padding-right: 15px;
     text-align: justify;
-    background: #272525;
+    background: #9c8c79;
     padding-top: 15px;
     position: relative;
     z-index: 2;
@@ -178,4 +176,9 @@
     outline-style: solid;
     outline-color: #212121;
     outline-width: 3px;
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 20;
 }
