@@ -15,7 +15,7 @@
     padding: 30px;
     margin: 14px;
     outline: solid;
-    outline-color: #333533;
+    outline-color: #463132;
     outline-width: 3px;
     filter: drop-shadow(2px 4px 6px black);
     position: relative;
@@ -39,7 +39,7 @@
     background: black;
     outline-style: solid;
     outline-width: 2px;
-    outline-color: #393f38;
+    outline-color: #463132;
     margin-left: 55px;
 }
 .dust-circle-img {
@@ -91,12 +91,12 @@
     font-size: 10.5px;
     padding-right: 15px;
     text-align: justify;
-    background: #323533;
+    background: #443938a8;
     padding-top: 15px;
     position: relative;
     z-index: 2;
     margin: -22px;
-    margin-top: 30px;
+    margin-top: 43px;
 }
 .body-dust b {
     color: var(--default);
