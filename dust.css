@@ -100,12 +100,15 @@
     font-size: 10.5px;
     padding-right: 15px;
     text-align: justify;
-    background: #443938a8;
+    background: #272525;
     padding-top: 15px;
     position: relative;
     z-index: 2;
     margin: -7px;
     margin-top: 43px;
+    outline-style: solid;
+    outline-color: #212121;
+    outline-width: 3px;
 }
 .body-dust b {
     color: var(--default);
