@@ -43,9 +43,19 @@
     height: 120px;
     width: 120px;
     border-radius: 100%;
-    background: url(https://images2.imgbox.com/24/e2/UoW2uYOF_o.png);
+    background: url(https://i.pinimg.com/736x/c8/1a/b4/c81ab4f10b74aed1676403b1c3bcbc0f.jpg);
     background-size: cover;
-    filter: saturate(0.3) contrast(0.9) brightness(0.7);
+    filter: saturate(0.3) contrast(0.9) brightness(0.5);
+    background-position-x: -14px;
+}
+.dust-circle-overlay {
+    background: #231818;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin-top: -120px;
+    position: absolute;
+    mix-blend-mode: hue;
 }
 .dust-symbol {
     background: url(https://images2.imgbox.com/f6/f0/odHPkUig_o.jpg);
