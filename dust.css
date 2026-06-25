@@ -76,8 +76,15 @@
     margin-top: 30px;
     margin-bottom: -19px;
     display: flex;
-    flex-direction: column;
     justify-content: center;
+    align-items: center;
+}
+.dust-rose {
+    height: 40px;
+    width: 40px;
+    background: url(https://cdn-icons-png.flaticon.com/128/7091/7091505.png);
+    background-size: cover;
+    filter: var(--elementcolor) brightness(0.7) saturate(0.7);
 }
 .Dust-quotes {
     position: absolute;
