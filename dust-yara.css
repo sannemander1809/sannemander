@@ -201,13 +201,5 @@
     background: url(https://rare-gallery.com/uploads/posts/907952-Assassin039s-Creed-valhalla-mountain-top-nature.jpg);
     background-size: cover;
     height: 100%;
-    filter: saturate(0.5) contrast(0.8) brightness(0.9);
-}
-.alethio-side-overlay {
-    height: 100%;
-    width: 100%;
-    background: #131c20;
-    position: relative;
-    margin-top: -388px;
-    mix-blend-mode: hue;
+    filter: grayscale(1) saturate(0.5) contrast(0.8) brightness(0.5);
 }
