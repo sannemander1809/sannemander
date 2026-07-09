@@ -98,7 +98,7 @@
 .dust-quote-small {
     font-family: 'Spectral SC';
     font-size: 11;
-    color: #a97474;
+    color: var(--default);
 }
 .dust-text {
     padding-left: 12px;
@@ -158,7 +158,7 @@
 .dust-lower-quote {
     font-family: 'Spectral SC';
     font-size: 10px;
-    color: #a97474;
+    color: var(--default);
     font-style: italic;
     margin-left: 9px;
 }
