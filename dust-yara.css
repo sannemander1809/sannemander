@@ -184,3 +184,30 @@
     font-size: 20;
     box-shadow: inset 0px 0px 17px 7px #514E49;
 }
+.dust-content {
+    display: flex;
+    flex-direction: row;
+}
+.dust-collumn {
+    width: 100px;
+    background: #262a2d;
+    margin-left: 15px;
+    margin-top: 41px;
+    margin-bottom: -10px;
+    margin-right: -10px;
+}
+.dust-side-img {
+    width: 100%;
+    background: url(https://rare-gallery.com/uploads/posts/907952-Assassin039s-Creed-valhalla-mountain-top-nature.jpg);
+    background-size: cover;
+    height: 100%;
+    filter: saturate(0.5) contrast(0.8) brightness(0.9);
+}
+.alethio-side-overlay {
+    height: 100%;
+    width: 100%;
+    background: #131c20;
+    position: relative;
+    margin-top: -388px;
+    mix-blend-mode: hue;
+}
