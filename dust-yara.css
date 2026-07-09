@@ -1,0 +1,185 @@
+.background-dust {
+    background: #181818;
+    width: 600;
+    outline: solid;
+    outline-color: #2d2d2d;
+    outline-width: 3px;
+    border: solid;
+    border-width: 1px;
+    border-color: #3a3a3a;
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/1200x/5f/06/e3/5f06e37d919bf3eda947e19d463a48a0.jpg);
+}
+.body-dust {
+    background: #1c1c1c;
+    padding: 30px;
+    margin: 14px;
+    filter: drop-shadow(2px 4px 6px black);
+    position: relative;
+    z-index: 2;
+}
+.dust-header {
+    background: #161616;
+    height: 160;
+    margin: -30px;
+}
+.dust-banner-overlay {
+    background: var(--footerbg);
+    height: 160;
+    display: flex;
+    align-items: center;
+}
+.dust-circle {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    background: black;
+    outline-style: solid;
+    outline-width: 4px;
+    outline-color: #463132;
+    margin-left: 55px;
+}
+.dust-circle-img {
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    background: url(https://i.pinimg.com/736x/c8/1a/b4/c81ab4f10b74aed1676403b1c3bcbc0f.jpg);
+    background-size: cover;
+    filter: saturate(0.3) contrast(0.9) brightness(0.5);
+    background-position-x: -14px;
+}
+.dust-circle-overlay {
+    background: #231818;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    margin-top: -120px;
+    position: absolute;
+    mix-blend-mode: hue;
+}
+.dust-symbol {
+    background: url(https://images2.imgbox.com/f6/f0/odHPkUig_o.jpg);
+    height: 160px;
+    width: 364px;
+    background-size: cover;
+    background-position-y: -184px;
+    background-position-x: 12px;
+    filter: invert(1) saturate(390%) hue-rotate(159deg);
+    mix-blend-mode: screen;
+    opacity: 0.1;
+    margin-left: 40px;
+}
+.dust-devider {
+    background: #212121;
+    height: 44px;
+    margin: -30px;
+    margin-top: 30px;
+    margin-bottom: -19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dust-rose {
+    height: 40px;
+    width: 40px;
+    background: url(https://cdn-icons-png.flaticon.com/128/7091/7091505.png);
+    background-size: cover;
+    filter: var(--elementcolor) brightness(0.7) saturate(0.7);
+}
+.Dust-quotes {
+    position: absolute;
+    margin-left: 229px;
+}
+.dust-quote-big {
+    font-family: 'Spectral SC';
+    font-size: 15;
+    text-transform: uppercase;
+}
+.dust-quote-small {
+    font-family: 'Spectral SC';
+    font-size: 11;
+    color: var(--default);
+}
+.dust-text {
+    padding-left: 12px;
+    padding-bottom: 15px;
+    font-family: "Noto Serif", serif;
+    font-size: 10.5px;
+    padding-right: 15px;
+    text-align: justify;
+    background: #272525;
+    padding-top: 15px;
+    position: relative;
+    z-index: 2;
+    margin: -7px;
+    margin-top: 43px;
+    outline-style: solid;
+    outline-color: #212121;
+    outline-width: 3px;
+}
+.body-dust b {
+    color: var(--default);
+    font-size: 11;
+    font-style: italic;
+}
+.dust-lower-bar {
+    background: #2c2c2c;
+    margin: -30px;
+    margin-top: 30px;
+    display: flex;
+    height: 42px;
+    align-items: center;
+}
+.dust-tags {
+    display: flex;
+    flex-direction: row;
+    gap: 9px;
+    align-items: center;
+    flex-grow: 2;
+    justify-content: flex-end;
+    margin-right: 9px;
+}
+.dust-tag {
+    border-color: transparent;
+    background: #3a3a3a;
+    text-transform: uppercase;
+    font-family: 'Radio Canada Big';
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--default);
+    border: 1px solid #414141;
+    font-size: 10;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.dust-lower-quote {
+    font-family: 'Spectral SC';
+    font-size: 10px;
+    color: var(--default);
+    font-style: italic;
+    margin-left: 9px;
+}
+.dust-text-letter {
+    padding-left: 12px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    text-align: justify;
+    background: #9c8c79;
+    padding-top: 15px;
+    position: relative;
+    z-index: 2;
+    margin: -7px;
+    margin-top: 43px;
+    outline-style: solid;
+    outline-color: #212121;
+    outline-width: 3px;
+    font-family: "Imperial Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    font-size: 20;
+    box-shadow: inset 0px 0px 17px 7px #514E49;
+}
