@@ -23,11 +23,21 @@
     height: 160;
     margin: -30px;
 }
+.dust-banner {
+    height: 160;
+    background: url(https://cdna.artstation.com/p/assets/images/images/031/903/400/large/emi-dimitrova-image-2020-10-19-14123500002.jpg?1604938092);
+    background-size: cover;
+    position: fixed;
+    width: 100%;
+    filter: grayscale(1);
+}
 .dust-banner-overlay {
     background: var(--footerbg);
     height: 160;
     display: flex;
     align-items: center;
+    z-index: 2;
+    position: relative;
 }
 .dust-circle {
     height: 120px;
